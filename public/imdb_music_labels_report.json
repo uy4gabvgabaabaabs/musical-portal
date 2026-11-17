@@ -1,0 +1,14 @@
+{
+  "portal_films": 4571,
+  "portal_imdb_ids": 4449,
+  "matched_imdb_ids": 4447,
+  "imdb_music": 1226,
+  "imdb_musical": 2070,
+  "both": 66,
+  "music_only": 1160,
+  "musical_only": 2004,
+  "neither": 1217,
+  "unknown": 124,
+  "source": "IMDb Non-Commercial Datasets / title.basics.tsv.gz",
+  "generated_on": "2026-08-22"
+}

@@ -1,0 +1,313 @@
+film_id,imdb_id,title,persian_title,year,director,country,imdb_genres,proposed_genre_2,review_status,review_note
+lb:1109,tt0030371,Little Miss Broadway,میس برادوی کوچک,1938,Irving Cummings,ایالات متحده آمریکا,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1203,tt0032138,The Wizard of Oz,جادوگر  اُز,1939,Victor Fleming,ایالات متحده آمریکا,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1684,tt0037059,Meet Me in St. Louis,مرا در سن لویی ملاقات کن,1944,Vincente Minnelli,ایالات متحده آمریکا,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2316,tt0048124,The Glass Slipper,کفش بلورین,1955,Charles Walters,ایالات متحده آمریکا,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2590,tt0058331,Mary Poppins,مری پاپینز,1964,Robert Stevenson,ایالات متحده آمریکا,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2605,tt0059742,The Sound of Music,آوای‌ موسیقی,1965,Robert Wise,ایالات متحده آمریکا,"Biography,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2724,tt0063385,Oliver!,اُلیور,1968,Carol Reed,بریتانیا,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2731,tt0062803,Chitty Chitty Bang Bang,چیتی چیتی بنگ بنگ,1968,Ken Hughes,بریتانیا,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2769,tt0067093,Fiddler on the Roof,ویُلن‌زن روی بام,1971,Norman Jewison,ایالات متحده آمریکا,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2809,tt0071762,The Little Prince,شازده کوچولو,1974,Stanley Donen,ایالات متحده آمریکا، بریتانیا,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2832,tt0074256,Bugsy Malone,باگزی مالون,1976,Alan Parker,بریتانیا,"Comedy,Crime,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2898,tt0081353,Popeye,پاپ‌‌‌آی,1980,Robert Altman,ایالات متحده آمریکا,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3034,tt0104990,Newsies,مخبرها,1992,Kenny Ortega,ایالات متحده آمریکا,"Drama,Family,History",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3191,tt0475293,High School Musical,دبیرستان موزیکال,2006,Kenny Ortega,ایالات متحده آمریکا,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3390,tt5697572,Cats,گربه‌ها,2019,Tom Hooper,بریتانیا,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3460,tt6166392,Wonka,وانکا,2023,Paul King,بریتانیا، ایالات متحده آمریکا,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:612,tt0016029,The Little Colonel,سرهنگ کوچک,1935,دیوید باتلِر,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1297,tt0032455,Fantasia,فانتازیا,1940,James Algar et al.,,"Animation,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2079,tt0042332,Cinderella,سیندرلا,1950,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",,"Animation,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2217,tt0044685,Hans Christian Andersen,هَنس کریستین اندرسن,1952,چارلز ویدُر,,"Biography,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2710,tt0061584,Doctor Dolittle,دکتر دُلیتِل,1967,Richard Fleischer,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2725,tt0062974,Finian's Rainbow,رنگین‌کمان فینیان,1968,Francis Ford Coppola,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2761,tt0066344,Scrooge,اسکروج,1970,Ronald Neame,,"Drama,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3026,tt0101414,Beauty and the Beast,دیو و دلبر,1991,Gary Trousdale & Kirk Wise,,"Animation,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3045,tt0107688,The Nightmare Before Christmas,کابوس قبل از کریسمس,1993,Henry Selick,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:169,tt0020640,Animal Crackers,بیسکویت حیوانی,1930,Victor Heerman,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:330,tt0122639,Odds 777,شانس ۷۷۷,1932,George Archainbaud,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:449,tt0023753,Alice in Wonderland,آلیس در سرزمین عجایب,1933,Clyde Geronimi,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:462,tt0025619,Palooka,پالوکا,1934,Benjamin Stoloff,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:485,tt0025221,Harold Teen,هَرُل تین,1934,Mervyn LeRoy,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:530,tt0025502,Mike Fright,ترس مایک,1934,James Parrott,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:565,tt0024852,Babes in Toyland,بروبچه‌ها در شهربازی,1934,Clive Donner,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:581,tt0024914,Bright Eyes,چشم‌های درخشان,1934,David Butler,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:614,tt0026867,The Phantom Empire,امپراتوری شبح,1935,Otto Brower / B. Reeves Eason,,"Family,Sci-Fi,Western",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:616,tt0026105,Beginner's Luck,شانس تازه‌کار,1935,William C. McGann,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:662,tt0026252,Curly Top,موفری,1935,Irving Cummings,,"Family,Musical,Romance",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:729,tt0026641,The Littlest Rebel,کوچک‌ترین شورشی,1935,David Butler,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:732,tt0124004,Min kone er husar,همسرم یک سوارکار است,1935,Emanuel Gregers,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:741,tt0028104,The Pinch Singer,خوانندهٔ جایگزین,1936,Walter Forde,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:778,tt0027421,Captain January,فرمانده جانیوری,1936,David Butler,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:782,tt0027882,Let's Sing Again,بذار دوباره اواز بخوانیم,1936,Kurt Neumann,,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:797,tt0028118,Poor Little Rich Girl,دختر ثروتمند کوچولوی بیچاره,1936,Irving Cummings,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:839,tt0027527,Dimples,دیمپلِس,1936,William A. Seiter,,"Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:867,tt0028315,Stowaway,مسافر قاچاقی,1936,William A. Seiter,,"Adventure,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:878,tt0028063,One in a Million,یک در میلیون,1936,Sidney Lanfield,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:888,tt0029478,Reunion in Rhythm,دیدار دوباره در ریتم,1937,Norman McLeod,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:940,tt0028772,A Day at the Races,یک روز در مسابقه,1937,Sam Wood,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1004,tt0028988,Heidi,هایدی,1937,Allan Dwan,,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1027,tt0029358,Our Gang Follies of 1938,نمایش‌های گروه ما در ۱۹۳۸,1937,Gordon Douglas,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1033,tt0029583,Snow White and the Seven Dwarfs,سفید برفی و هفت کوتوله 1937,1937,David Hand,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1079,tt0030657,Rebecca of Sunnybrook Farm,ربکا از مزرعه‌ی آفتابی,1938,Allan Dwan,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1110,tt0125692,Champagnegaloppen,تاخت شامپاین,1938,George Schnéevoigt,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1124,tt0029848,Aladdin's Lantern,چراغ علاءالدین,1938,Arthur Lubin,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1134,tt0030368,"Listen, Darling",گوش کن، عزیزم,1938,Edwin L. Marin,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1139,tt0030302,Just Around the Corner,درست آن گوشه,1938,Irving Cummings,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1143,tt0030845,The Terror of Tiny Town,وحشت شهر کوچک,1938,Sam Newfield,,"Comedy,Family,Western",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1172,tt0031580,The Little Princess,شاهزاده خانم کوچولو,1939,Walter Lang,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1180,tt0031261,East Side of Heaven,سمت شرقی بهشت,1939,David Butler,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1183,tt0031162,Clown Princes,شاهزادگان دلقک,1939,George Sidney,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1206,tt0031138,Captain Spanky's Show Boat,کشتی نمایشی کاپیتان اسپنکی,1939,Gordon Douglas,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1224,tt0032038,Time Out for Lessons,زنگ تفریح برای درس,1939,Herbert Mason,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1236,tt0032264,The Blue Bird,پرندهٔ آبی,1940,George Cukor,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1264,tt0032206,Andy Hardy Meets Debutante,اندی هاردی با دختر تازه‌وارد آشنا می‌شود,1940,George B. Seitz,,"Comedy,Family,Romance",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1281,tt0033236,Waldo's Last Stand,آخرین ایستادگی والدو,1940,Robert F. Hill,,"Comedy,Family,Short",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1299,tt0032718,Little Nellie Kelly,نلی کلی کوچک,1940,Norman Taurog,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1321,tt0033403,Blondie Goes Latin,بلُندی از لاتین,1941,Frank R. Strayer,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1326,tt0034406,Ye Olde Minstrels,نغمه‌خوانان روزگار قدیم,1941,Monty Banks,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1343,tt0033388,The Big Store,فروشگاه بزرگ,1941,Charles Reisner,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1396,tt0034485,Babes on Broadway,بروبچه‌ها در برادوی,1941,Busby Berkeley,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1404,tt0035055,Melodies Old and New,نغمه‌های قدیم و جدید,1942,Kurt Neumann,,"Comedy,Family,Short",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1434,tt0035575,Yankee Doodle Dandy,یانکی دودل دندی,1942,Michael Curtiz,,"Biography,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1452,tt0034886,Iceland,ایسلند,1942,H. Bruce Humberstone,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1460,tt0161510,Doing Their Bit,انجام سهم خود,1942,Raymond Cannon,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1463,tt0035262,Road to Morocco,سفر به مراکش,1942,David Butler,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1693,tt0037104,Music for Millions,موسیقی برای میلیون‌ها,1944,Henry Koster,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1696,tt0038166,The Three Caballeros,سه مرد محترم لاتینی,1944,Norman Ferguson,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1726,tt0038033,Rockin' in the Rockies,راک در کوه‌های راکی,1945,Joseph Kane,,"Action,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1776,tt0038032,Road to Utopia,جاده‌ای به آرمان‌شهر,1945,Hal Walker,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1866,tt0038969,Song of the South,آوازجنوبی,1946,Harve Foster,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1878,tt0038704,Love Laughs at Andy Hardy,عشق به اندی هاردی می‌خندد,1946,Willis Goldbeck,,"Comedy,Family,Romance",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1972,tt0040580,Melody Time,زمان نواختن,1948,Jack Kinney,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2007,tt0041890,So Dear to My Heart,چنین عزیز برای قلبم,1948,Harold D. Schuster,,"Animation,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2010,tt0040679,The Paleface,رنگ‌پریده,1948,Norman Z. McLeod,,"Comedy,Family,Western",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2028,tt0041259,A Connecticut Yankee in King Arthur's Court,یک یانکی اهل کنتیکت در دربار شاه آرتور,1949,Tay Garnett,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2034,tt0040849,The Sun Comes Up,خورشید طلوع می‌کند,1949,Richard Thorpe,,"Drama,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2059,tt0041094,The Adventures of Ichabod and Mr. Toad,ماجراهای ایکاباد و آقای تود,1949,Jack Kinney,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2147,tt0043880,On Moonlight Bay,در خلیج مهتابی,1951,Roy Del Ruth,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2173,tt0044672,The Greatest Show on Earth,بزرگ‌ترین نمایش روی زمین,1952,Cecil B. DeMille,,"Drama,Family,Romance",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2185,tt0044762,Jack and the Beanstalk,جک و لوبیای سحرآمیز,1952,Jean Yarbrough,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2225,tt0046183,Peter Pan,پیترپن,1953,Sidney Lumet,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2236,tt0045586,By the Light of the Silvery Moon,در نور نقره‌ای ماه,1953,David Butler,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2248,tt0045464,"The 5,000 Fingers of Dr. T.",هزار انگشت دکتر تی,1953,Roy Rowland,,"Family,Fantasy,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2298,tt0193995,Hansel and Gretel: An Opera Fantasy,هانسل و گرتل: خیال‌پردازی اپرایی,1954,Michael Myerberg,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:723,tt0420332,Veer-Zaara,ویر و زارا,2004,Yash Chopra,هند,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:702,tt0330843,Saathiya,همراه,2002,Shaad Ali,هند,"Drama,Family,Romance",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:464,tt0216067,Parichay,آشنایی,1972,Gulzar,هند,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:893,tt8022928,Descendants 3 2019,فرزندان 3,2019,کِنی اُرتِگا,,"Action,Adventure,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:883,tt2709692,The Grinch 2018,گرینچ,2018,"Scott Mosier, Yarrow Cheney",,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:856,tt2771200,Beauty and the Beast 2017,زشت و زیبا,2017,Bill Condon,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:857,tt5117876,Descendants 2 2017,فرزندان 2,2017,کِنی اُرتِگا,,"Action,Adventure,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:867,tt5895884,World of Dance,دنیای رقص,2017,Alex Rudzinski,,"Family,Music,Reality-TV",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:846,tt3901944,Country Crush 2016,عشق روستایی,2016,Andrew Cymek,,"Drama,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:809,tt1425922,Black Nativity 2013,ملت سیاه,2013,Kasi Lemmons,,"Drama,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:816,tt2866674,Thy Will Be Done 2013,ارادهٔ تو انجام شود,2013,Albert Johnson,,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:791,tt1204342,The Muppets 2011,عروسک‌ها,2011,James Bobin,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:782,tt1252380,Camp Rock 2:The Final Jam 2010,کمپ راک ۲: اجرای نهایی,2010,Paul Hoen,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:775,tt0986264,Like Stars on Earth 2007,مانند ستاره‌ها بر روی زمین,2009,"Aamir Khan, Amole Gupte",,"Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:759,tt1055366,Camp Rock 2008,اردوگاه راک,2008,Matthew Diamond,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:752,tt0810900,High School Musical 2 2007,دبیرستان موزیکال 2,2007,Kenny Ortega                                                               |,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:746,tt0494290,Vivah (2006),ازدواج,2006,Sooraj Barjatya,,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:703,tt0322330,Freaky Friday 2003,جمعه‌ی دم‌دمی مزاجی,2003,Mark Waters,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:644,tt0116683,James and the Giant Peach 1996,جِیمز و هلوی غول‌پیکر,1996,Henry Selick,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:633,tt0111408,That's Entertainment! 3 1994,سرگرمی یعنی این 3,1994,"Bud Friedgen, Michael J. Sheridan",,"Documentary,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:627,tt0107688,The Nightmare Before Christmas 1993,کابوس قبل از کریسمس,1993,Henry Selick,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:621,tt0105417,Sister Act 1992,عمل خواهر,1992,اِمیل آدُرلینو,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:624,tt0104940,The Muppet Christmas Carol 1992,کَرُل عروسک کریسمس,1992,Brian Henson,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:608,tt0101414,Beauty and the Beast 1991,دیو و دلبر,1991,"Gary Trousdale, Kirk Wise",,"Animation,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:609,tt0102057,Hook (1991),هوک,1991,Steven Spielberg,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:541,tt0083081,Silsila (1981),زنجیره,1981,Yash Chopra,,"Drama,Family,Romance",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:521,tt0077890,The Magic of Lassie 1978,معجزه‌ی لاسی,1978,Don Chaffey,,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:513,tt0076363,The Many Adventures of Winnie the Pooh 1977,ماجراهای زیادی از پو,1977,"ولفکنگ رایتِلمُن, John Lounsbery",,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:499,tt0075323,That's Entertainment! 2.1976,سرگرمی یعنی این 2,1976,جین کِلی,,"Documentary,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:503,tt0075232,The Slipper and the Rose The Story of Cinderella 1976,دمپایی و گل سرخ,1976,Bryan Forbes,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:480,tt0071448,Dunderklumpen! 1974,دوندرکلامپن!,1974,Per Åhlin,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:485,tt0072272,That's Entertainment! 1974,سرگرمی یعنی این!,1974,Jack Haley Jr.,,"Documentary,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:476,tt0070814,Tom Sawyer 1973,تام سایر,1973,Don Taylor,,"Adventure,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:458,tt0067992,Willy Wonka & the Chocolate Factory 1971,ویلی وانکا و کارخانه‌ی شکلات سازی,1971,Mel Stuart,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:423,tt0061749,The Happiest Millionaire 1967,خوش‌حال‌ترین میلیونر,1967,Norman Tokar,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:379,tt0056262,The Music Man 1962,مرد موسیقی,1962,Morton DaCosta,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:317,tt0048124,The Glass Slipper 1955,کفش بلورین,1955,چارلز والترز,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:276,tt0045586,By the Light of the Silvery Moon 1953,در نور نقره‌ای ماه,1953,دیوید باتلِر,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:244,tt0041231,The Cat And The Mermouse,گربه و موش,1949,"Joseph Barbera, William Hanna",,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:221,tt0041890,Danny (So.Dear.to.My.Heart) (1949),دَنی,1948,"Harold D. Schuster, Hamilton Luske",,"Animation,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:225,tt0040580,MELODY TIME 1948,زمان نواختن,1948,"کلاید جِرونیمی, ویلفرد جکسن",,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:177,tt0035575,Yankee Doodle Dandy 1942,یانکی دودل دندی,1942,مایکل کورتیز,,"Biography,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:164,tt0034485,Babes On Broadway 1941,بروبچه‌ها در برادوی,1941,باربی بِرکلی,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+vault:96,tt0026252,Curly Top 1935,موفری,1935,ایروینگ کامینگز,,"Family,Musical,Romance",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2422,tt0050842,The Pied Piper of Hamelin,نی‌نواز هاملین,1957,Bretaigne Windust,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2430,tt0394610,Hans Brinker or the Silver Skates,هانس برینکر یا اسکیت‌های نقره‌ای,1958,Sidney W. Pink,,"Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2452,tt0052427,Tom Thumb,تام بند انگشتی,1958,George Pal,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2458,tt0053285,Sleeping Beauty,زیبای خفته,1959,Clyde Geronimi,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2470,tt0052722,Darby O'Gill and the Little People,داربی اوگیل و آدم‌کوچولوها,1959,Robert Stevenson,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2483,tt0053001,Li'l Abner,لیل اَبنِر,1959,Melvin Frank,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2500,tt0053716,Cinderfella,سیندرفلا,1960,Frank Tashlin,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2520,tt0055458,Snow White and the Three Stooges,سفیدبرفی و سه کله‌پوک,1961,Walter Lang,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2531,tt0055740,Almost Angels,بیش‌تر فرشتگان,1962,Steve Previn,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2536,tt13206322,Escapade in Florence,ماجراجویی در فلورانس,1962,Steve Previn,,"Adventure,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2537,tt0057093,Gay Purr-ee,گربهٔ پاریسی,1962,Abe Levitow,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2553,tt0057542,Summer Magic,جادوی تابستانی,1963,James Neilson,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2560,tt0057668,The Waltz King,پادشاه والس,1963,Alfred Weidenmann,,"Adventure,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2639,tt0060559,"Jimmy, the Boy Wonder",جیمی، پسر شگفت‌انگیز,1966,Herschell Gordon Lewis,,"Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2644,tt0060983,The Singing Nun,راهیه‌ی آوازخوان,1966,Henry Koster,,"Biography,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2645,tt0275070,Alice in Wonderland or What's a Nice Kid Like You Doing in a Place Like This?,آلیس در سرزمین عجایب یا یک بچهٔ خوب مثل تو اینجا چه می‌کند؟,1966,Joseph McGrath,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2668,tt0060088,Alice Through the Looking Glass,آلیس آن سوی آینه,1966,Alan Handley,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2670,tt0059032,The Christmas That Almost Wasn't,کریسمسی که نزدیک بود نباشد,1966,Rossano Brazzi,,"Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2692,tt0061765,Hillbillys in a Haunted House,روستایی‌ها در خانهٔ جن‌زده,1967,Jean Yarbrough,,"Comedy,Family,Horror",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2708,tt0061749,The Happiest Millionaire,خوش‌حال‌ترین میلیونر,1967,Norman Tokar,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2717,tt0063389,"The One and Only, Genuine, Original Family Band",گروه خانوادگی یگانه و اصیل,1968,Michael O'Herlihy,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2743,tt0065223,The Wonderful Land of Oz,سرزمین شگفت‌انگیز آز,1969,Barry Mahon,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2748,tt0064595,The Littlest Angel,کوچک‌ترین فرشته,1969,Joe Layton,,"Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2750,tt0079269,Hans Brinker,هانس برینکر,1969,Sidney Lumet,,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2767,tt0067992,Willy Wonka & the Chocolate Factory,ویلی وانکا و کارخانه‌ی شکلات سازی,1971,Mel Stuart,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2779,tt0068156,1776,۱۷۷۶,1972,Peter H. Hunt,,"Drama,Family,History",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2780,tt0068190,Alice's Adventures in Wonderland,ماجراهای آلیس در سرزمین عجایب,1972,William Sterling,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2786,tt0262136,"You're a Good Man, Charlie Brown",تو مرد خوبی هستی، چارلی براون,1973,Arthur A. Seidelman,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2790,tt0070814,Tom Sawyer,تام سایر,1973,Don Taylor,,"Adventure,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2805,tt0071634,Huckleberry Finn,هاکلبری فین,1974,J. Lee Thompson,,"Adventure,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2806,tt0072272,That's Entertainment!,سرگرمی یعنی این!,1974,Jack Haley Jr.,,"Documentary,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2824,tt0073570,The Adventures of Buratino,ماجراهای بوراتینو,1976,Leonid Nechayev,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2827,tt0075232,The Slipper and the Rose,کفش و گل سرخ,1976,Bryan Forbes,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2833,tt0075323,"That's Entertainment, Part II",این است سرگرمی، بخش دوم,1976,Gene Kelly,,"Documentary,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2836,tt0076340,Mama,ماما,1976,Natalia Bondarchuk,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2844,tt0076363,The Many Adventures of Winnie the Pooh,ماجراهای زیادی از پو,1977,John Lounsbery,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2853,tt0075988,Emmet Otter's Jug-Band Christmas,کریسمس گروه کوزه‌ای امت اوتر,1977,Jim Henson,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2864,tt0077890,The Magic of Lassie,معجزه‌ی لاسی,1978,Don Chaffey,,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2867,tt0078504,The Wiz,ویز,1978,Sidney Lumet,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2876,tt0079588,The Muppet Movie,فیلم عروسکی,1979,James Frawley,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2912,tt0133356,Alice at the Palace,آلیس در قصر,1982,Kirk Browning,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2915,tt0083564,Annie,آنی,1982,Rob Marshall,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2934,tt0086590,The Wind in the Willows,باد در بیدزار,1983,Mark Hall,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2956,tt0089994,Follow That Bird,آن پرنده را دنبال کن,1985,Ken Kwapis,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2963,tt0123099,"Happy New Year, Charlie Brown",سال نو مبارک، چارلی براون,1986,Bill Melendez,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2967,tt0091369,Labyrinth,هزار تو,1986,Jim Henson,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2971,tt0095182,The Frog Prince,شاهزادهٔ قورباغه,1986,Brian Henson,,"Drama,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2972,tt0092239,The Worst Witch,بدترین جادوگر,1986,Robert Young,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2984,tt0092695,The Brave Little Toaster,توستر کوچک شجاع,1987,Jerry Rees,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2987,tt0093072,The Garbage Pail Kids Movie,فیلم بچه‌های سطل زباله,1987,Rod Amateau,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2992,tt0093744,The New Adventures of Pippi Longstocking,ماجراهای تازهٔ پی‌پی جوراب‌بلند,1988,Ken Annakin,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2995,tt0177606,Puss in Boots,گربهٔ چکمه‌پوش,1988,Chris Miller,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3005,tt0093831,Red Riding Hood,شنل‌قرمزی,1987,Adam Brooks,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3017,tt0100192,Mother Goose Rock 'n' Rhyme,راک و قافیهٔ مامان غاز,1990,Jeff Stein,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3039,tt0104940,The Muppet Christmas Carol,کَرُل عروسک کریسمس,1992,Brian Henson,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3041,tt0107120,Hocus Pocus,هوکوس پوکوس,1993,Kenny Ortega,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3047,tt0106547,David Copperfield,دیوید کاپرفیلد,1993,Delbert Mann,,"Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3050,tt0111419,Thumbelina,بند انگشتی,1994,Don Bluth,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3065,tt0113824,Whisper of the Heart,نجوای قلب,1995,Yoshifumi Kondō,,"Animation,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3072,tt0116683,James and the Giant Peach,جِیمز و هلوی غول‌پیکر,1996,Henry Selick,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3079,tt0117103,Mrs. Santa Claus,خانم بابانوئل,1996,Terry Hughes,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3082,tt0118829,Cats Don't Dance,گربه‌ها نمی‌رقصند,1997,Mark Dindal,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3089,tt0118692,Beauty and the Beast: The Enchanted Christmas,دیو و دلبر: کریسمس افسون‌شده,1997,Andy Knight,,"Animation,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3091,tt0120185,Spice World,دنیای اسپایس,1997,Bob Spiers,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3103,tt0286490,The Bear,خرس,1998,Jean-Jacques Annaud,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3112,tt0207957,Alvin and the Chipmunks Meet Frankenstein,آلوین و سنجاب‌ها با فرانکنشتاین آشنا می‌شوند,1999,Kathi Castillo,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3120,tt0200656,Geppetto,ژپتو,2000,Tom Moore,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3128,tt0170016,How the Grinch Stole Christmas,چگونه گرینچ کریسمس را دزدید,2000,Ron Howard,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3148,tt0329737,It's a Very Merry Muppet Christmas Movie,فیلم کریسمس بسیار شاد ماپت‌ها,2002,Kirk R. Thatcher,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3155,tt0338852,The Cheetah Girls,دختران چیتا,2003,Oz Scott,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3181,tt0367594,Charlie and the Chocolate Factory,چارلی و کارخانهٔ شکلات‌سازی,2005,Tim Burton,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3197,tt0800318,The Cheetah Girls 2,دختران چیتا ۲,2006,Kenny Ortega,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3210,tt0810900,High School Musical 2,دبیرستان موزیکال 2,2007,Kenny Ortega,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3218,tt1055366,Camp Rock,اردوگاه راک,2008,Matthew Diamond,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3224,tt1013542,The Cheetah Girls: One World,دختران چیتا: یک جهان,2008,Paul Hoen,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3225,tt0962726,High School Musical 3: Senior Year,دبیرستان موزیکال 3,2008,Kenny Ortega,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3232,tt1415904,Tigger & Pooh and a Musical Too,تیگر و پو و یک موزیکال دیگر,2009,David Hartman,,"Animation,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3233,tt1114677,Hannah Montana: The Movie,هانا مونتانا: فیلم,2009,Peter Chelsom,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3236,tt0976222,Bandslam,نبرد گروه‌ها,2009,Todd Graff,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3252,tt1252380,Camp Rock 2: The Final Jam,کمپ راک ۲: اجرای نهایی,2010,Paul Hoen,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3257,tt1592876,Score: A Hockey Musical,امتیاز: موزیکال هاکی,2010,Michael McGowan,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3263,tt1629440,Sharpay's Fabulous Adventure,ماجرای شگفت‌انگیز شارپی,2011,Michael Lembeck,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3268,tt1204342,The Muppets,عروسک‌ها,2011,James Bobin,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3274,tt2163203,Big Time Movie,فیلم بیگ تایم,2012,Savage Steve Holland,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3283,tt2491648,Goat Story With Cheese,داستان بز با پنیر,2012,Jan Tománek,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3284,tt2376246,Christmas Song,ترانهٔ کریسمس,2012,unknown,,"Drama,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3289,tt2325989,Teen Beach Movie,فیلم ساحل نوجوانان,2013,Jeffrey Hornaday,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3294,tt1425922,Black Nativity,ملت سیاه,2013,Kasi Lemmons,,"Drama,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3319,tt3764966,Teen Beach 2,ساحل نوجوانان ۲,2015,Jeffrey Hornaday,,"Drama,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3325,tt3614530,Jem and the Holograms,جم و هولوگرام‌ها,2015,Jon M. Chu,,"Adventure,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3329,tt2974918,Alvin and the Chipmunks: The Road Chip,آلوین و سنجاب‌ها: سفر جاده‌ای,2015,Walt Becker,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3339,tt3470600,Sing,آواز بخوان,2016,Garth Jennings,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3349,tt5117876,Descendants 2,فرزندان 2,2017,Kenny Ortega,,"Action,Adventure,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3373,tt5028340,Mary Poppins Returns,مری پاپینز بازمی‌گردد,2018,Rob Marshall,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3383,tt8022928,Descendants 3,فرزندان 3,2019,Kenny Ortega,,"Action,Adventure,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3546,tt6878820,Z-O-M-B-I-E-S,زامبی‌ها,2018,Paul Hoen,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3549,tt0253848,Tubby the Tuba,توبی، توبای بزرگ,1975,Alexander Schure,,"Animation,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3553,tt0108147,Sister Act 2: Back in the Habit,عمل خواهر ۲: بازگشت به عادت,1993,Bill Duke,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3554,tt0105417,Sister Act,عمل خواهر,1992,Emile Ardolino,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3555,tt0361696,Raise Your Voice,صدایت را بلند کن,2004,Sean McNamara,,"Family,Music,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3569,tt0066256,Pufnstuf,پاف‌ان‌استاف,1970,Hollingsworth Morse,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3584,tt2188926,Strawberry Summer,تابستان توت‌فرنگی,2012,Kevin Connor,,Family,کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3586,tt0276033,The Country Bears,خرس‌های کانتری,2002,Peter Hastings,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:924,tt0029747,Way Out West,به‌سوی غرب,1937,,,"Comedy,Family,Western",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2350,tt0049096,The Court Jester,قاضی جِستِر,1955,Norman Panama / Melvin Frank,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2683,tt0061931,Mad Monster Party?,جشن هیولاهای دیوانه,1967,Jules Bass / Arthur Rankin Jr.,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2701,tt0062466,The Wacky World of Mother Goose,دنیای عجیب مامان غاز,1967,Jules Bass / Arthur Rankin Jr.,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2810,tt0208654,'Twas the Night Before Christmas,شب پیش از کریسمس بود,1974,Jules Bass / Arthur Rankin Jr.,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2979,tt0092626,Beauty and the Beast,دیو و دلبر,1987,Gary Trousdale / Kirk Wise,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3398,tt12767498,Barbie: Princess Adventure,باربی: ماجرای شاهزاده‌خانم,2020,Conrad Helten,,"Animation,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3401,tt7736496,Jingle Jangle: A Christmas Journey,جینگل جنگل: سفر کریسمس,2020,David E. Talbert,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3402,tt10627548,Dolly Parton's Christmas on the Square,کریسمس دالی پارتن در میدان,2020,Debbie Allen,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3406,tt11388278,A Week Away,یک هفته دور,2021,Roman White,,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3419,tt14602326,Muppets Haunted Mansion,عمارت تسخیرشدهٔ ماپت‌ها,2021,Kirk R. Thatcher,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3426,tt14696284,Better Nate Than Ever,نیت بهتر از همیشه,2022,Tim Federle,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3427,tt10160886,Sneakerella,اسنیکرلا,2022,Elizabeth Allen Rosenbaum,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3431,tt14301252,Z-O-M-B-I-E-S 3,زامبی‌ها ۳,2022,Paul Hoen,,"Drama,Family,Horror",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3432,tt3975918,13: The Musical,سیزده: موزیکال,2022,Tamra Davis,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3436,tt11909878,Hocus Pocus 2,هوکوس پوکوس ۲,2022,Anne Fletcher,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3437,tt3447590,Roald Dahl's Matilda the Musical,ماتیلدای موزیکال رولد دال,2022,Matthew Warchus,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3441,tt10999120,Spirited,سرزنده,2022,Sean Anders,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3457,tt13848804,Journey to Bethlehem,سفر به بیت‌لحم,2023,Adam Anders,,"Adventure,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3478,tt32919749,The Night Before Christmas in Wonderland,شب پیش از کریسمس در سرزمین عجایب,2024,Peter Baynton,,"Animation,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3482,tt6208148,Snow White,سفیدبرفی,2025,Marc Webb,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3486,tt31241595,Z-O-M-B-I-E-S 4: Dawn of the Vampires,زامبی‌ها ۴: سپیده‌دم خون‌آشام‌ها,2025,Paul Hoen,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3488,tt19847976,Wicked: For Good,شرور: برای همیشه,2025,Jon M. Chu,,"Drama,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3501,tt35600079,A Very Jonas Christmas Movie,فیلم کریسمس بسیار جوناس,2025,Michael D. Ratner,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3547,tt9766166,Z-O-M-B-I-E-S 2,زامبی‌ها ۲,2020,Paul Hoen,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3564,tt36988583,Snoopy Presents: A Summer Musical,اسنوپی تقدیم می‌کند: موزیکال تابستانی,2025,Raymond S. Persi,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1870,tt0039092,Wake Up and Dream,بیدارشو و رویا ببین,1946,,,"Adventure,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:1914,tt0168269,Cinderella,سیندرلا,1947,,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3012,tt0097757,The Little Mermaid,پری دریایی کوچولو,1989,Ron Clements / John Musker,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3054,tt0111408,That's Entertainment! III,این است سرگرمی! ۳,1994,Bud Friedgen / Michael J. Sheridan,,"Documentary,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3071,tt0115509,All Dogs Go to Heaven 2,همهٔ سگ‌ها به بهشت می‌روند ۲,1996,Paul Sabella / Larry Leker,,"Adventure,Animation,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3074,tt0116583,The Hunchback of Notre Dame,گوژپشت نوتردام,1996,Gary Trousdale / Kirk Wise,,"Animation,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3116,tt0120910,Fantasia 2000,فانتازیا,1999,James Algar / et al.,,"Animation,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3375,tt9296692,Country Christmas Album,آلبوم کریسمس کانتری,2018,(TV special / anthology),,"Drama,Family,Romance",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2035,tt0042189,Alice in Wonderland,آلیس در سرزمین عجایب,1949,,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2144,tt0044030,Show Boat,قایق نمایش,1951,,,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2388,tt0049372,It's Great to be Young!,جوان‌بودن عالی است!,1956,,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2393,tt0129672,Cinderella,سیندرلا,1957,,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2518,tt0054649,Babes in Toyland,بچه‌ها در سرزمین اسباب‌بازی,1961,,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2530,tt0056262,The Music Man,مرد موسیقی,1962,,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2604,tt0057950,Cinderella,سیندرلا,1965,,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2636,tt0058972,Billie,بیلی,1965,,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2782,tt0374926,Once Upon a Mattress,روزی روزگاری یک تشک,1972,,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2828,tt0207653,Pinocchio,پینوکیو,1976,,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2831,tt0074225,The Blue Bird,پرندهٔ آبی,1976,,,"Adventure,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2841,tt0073533,Peter Pan,پیتر پن,1976,,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2959,tt0153997,"You're a Good Man, Charlie Brown",تو مرد خوبی هستی، چارلی براون,1985,,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:2976,tt0090683,Babes in Toyland,بچه‌ها در سرزمین اسباب‌بازی,1986,,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3420,tt2953050,Encanto,افسون,2021,Byron Howard / Jared Bush,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3439,tt14668630,"Lyle, Lyle, Crocodile",لایل، لایل، کروکودیل,2022,Josh Gordon / Will Speck,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3087,tt0168473,Babes in Toyland,بچه‌ها در سرزمین اسباب‌بازی,1997,,,"Animation,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3088,tt0128996,Cinderella,سیندرلا,1997,,,"Family,Fantasy,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3105,tt0160429,The King and I,پادشاه و من,1999,,,"Animation,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3115,tt0207972,Annie,آنی,1999,,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3153,tt0293437,The Music Man,مرد موسیقی,2003,,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3189,tt0426148,Once Upon A Mattress,روزی روزگاری یک تشک,2005,,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3195,tt0385988,Red Riding Hood,شنل‌قرمزی,2006,,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3246,tt1579247,Starstruck,ستاره‌زده,2010,,,"Comedy,Family,Music",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3313,tt1823664,Annie,آنی,2014,,,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3344,tt2771200,Beauty and the Beast,زشت و زیبا,2017,,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3380,tt6139732,Aladdin,علادین,2019,,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3389,tt8096832,Lady and the Tramp,بانو و ولگرد,2019,,,"Adventure,Comedy,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3574,tt0060439,Funny Things Happen Down Under,اتفاق‌های بامزه در استرالیا,1965,,,"Comedy,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3417,tt10155932,Cinderella,سیندرلا,2021,,,"Comedy,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3450,tt5971474,The Little Mermaid,پری دریایی کوچولو,2023,,,"Adventure,Family,Fantasy",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3493,tt12802728,Once on This Island,روزی در این جزیره,,,,"Adventure,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+lb:3497,tt12014734,The Ballad of Travis Hunter,تصنیف تراویس هانتر,,,,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+indian_core:0045,tt0065936,Kati Patang,بادبادک بریده,1970,Shakti Samanta,هند,"Drama,Family,Musical",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+indian_core:0047,tt0068257,Bawarchi,باورچی,1972,Hrishikesh Mukherjee,هند,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+indian_core:0117,tt0871510,Chak De India,هند را به پیش,2007,Shimit Amin,هند,"Drama,Family,Sport",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+indian_core:0133,tt2181931,English Vinglish,انگلیش وینگلیش,2012,Gauri Shinde,هند,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی
+indian_core:0135,tt4900716,Kapoor & Sons,کاپور و پسران,2016,Shakun Batra,هند,"Comedy,Drama,Family",کودکانه,نامزد,برگرفته از برچسب Family در IMDb؛ نیازمند تشخیص کودکانه از خانوادگی

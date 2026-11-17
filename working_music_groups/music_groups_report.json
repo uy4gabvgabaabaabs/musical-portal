@@ -1,0 +1,13 @@
+{
+  "confirmed_groups": 127,
+  "confirmed_groups_with_films": 54,
+  "confirmed_groups_with_documentaries": 75,
+  "film_relations": 59,
+  "documentary_relations": 80,
+  "review_candidates": 22,
+  "principal_hits": 1,
+  "film_groups_discovered": 52,
+  "plural_self_review_candidates": 15,
+  "principal_rows_scanned": 101296713,
+  "method": "IMDb non-commercial datasets + portal CSV; no AI calls"
+}

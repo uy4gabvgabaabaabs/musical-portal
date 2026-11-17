@@ -1,0 +1,238 @@
+﻿imdb_id,canonical_film_id,legacy_film_ids,source_record_count,preserved_fields
+tt0026007,lb:481,vault:90,2,film_id; title; director; collection; note_path
+tt0026023,lb:580,vault:92,2,film_id; title; director; collection; composer; lyricist; note_path; downloadroz_search_url
+tt0027660,lb:833,vault:123,2,film_id; title; director; collection; composer; lyricist; note_path
+tt0029000,lb:962,vault:131,2,film_id; title; director; collection; note_path; downloadroz_search_url
+tt0033110,lb:1280,vault:161,2,film_id; title; director; collection; composer; note_path; downloadroz_search_url
+tt0034746,lb:1458,vault:172,2,film_id; title; director; collection; composer; lyricist; note_path; downloadroz_search_url
+tt0035942,lb:1570,vault:182,2,film_id; title; director; collection; composer; note_path
+tt0040308,lb:1978,vault:223,2,film_id; title; director; collection; composer; note_path; downloadroz_search_url
+tt0041944,lb:2023,vault:241,2,film_id; title; director; collection; composer; lyricist; note_path; downloadroz_search_url
+tt0046896,lb:2304,vault:294,2,film_id; title; director; collection; composer; lyricist; note_path
+tt0048124,lb:2316,vault:317,2,film_id; title; director; collection; composer; lyricist; note_path; downloadroz_search_url
+tt0048260,lb:2338,vault:309,2,film_id; title; director; collection; composer; note_path; downloadroz_search_url
+tt0051516,lb:2443,vault:344,2,film_id; title; director; collection; composer; note_path; downloadroz_search_url
+tt0053182,lb:2471,vault:359,2,film_id; title; director; collection; composer; lyricist; note_path; downloadroz_search_url
+tt0070155,lb:2775,vault:467,2,film_id; title; collection; composer; lyricist; note_path
+tt0069810,lb:2797,vault:471,2,film_id; title; collection; note_path; downloadroz_search_url
+tt0097858,lb:3007,vault:602,2,film_id; title; persian_title; collection; lyricist; note_path; downloadroz_search_url
+tt3623726,lb:3320,vault:837,2,film_id; title; collection; composer; lyricist; note_path
+tt4136084,lb:3334,vault:848,2,film_id; title; collection; composer; lyricist; note_path
+tt6911608,lb:3362,vault:877,2,film_id; title; collection; composer; lyricist; note_path; downloadroz_search_url
+tt1727824,lb:3371,vault:873,2,film_id; title; persian_title; director; collection; actors; composer; music_director; arranger; musical_supervisor; note_path
+tt0035703,lb:1497,vault:179,2,film_id; title; composer; lyricist; note_path; downloadroz_search_url
+tt0056700,lb:2532,vault:381,2,film_id; title; persian_title; director; collection; lyricist; note_path; downloadroz_search_url
+tt0102802,lb:3023,vault:611,2,film_id; title; director; collection; note_path
+tt0101414,lb:3026,vault:608,2,film_id; title; director; collection; note_path; downloadroz_search_url
+tt0107688,lb:3045,vault:627,2,film_id; title; collection; note_path; downloadroz_search_url
+tt0021307,lb:95,vault:45,2,film_id; title; director; actors; composer; lyricist
+tt0020670,lb:100,vault:24,2,film_id; title; director; actors; composer; lyricist
+tt0021401,lb:113,vault:39,2,film_id; title; director; actors; composer; lyricist
+tt0021152,lb:120,vault:34,2,film_id; title; actors; composer
+tt0020902,lb:123,vault:50,2,film_id; title; actors; composer
+tt0021568,lb:134,vault:49,2,film_id; title; actors; composer; lyricist
+tt0021232,lb:137,vault:36,2,film_id; title; director; actors; composer; lyricist
+tt0020690,lb:144,vault:42,2,film_id; title; actors; composer; lyricist
+tt0021436,lb:147,vault:41,2,film_id; title; director; actors; composer; lyricist
+tt0021404,lb:151,vault:46,2,film_id; title; director; actors; lyricist
+tt0020724,lb:175,vault:25,2,film_id; title; director; actors; composer; lyricist
+tt0020894,lb:194,vault:29,2,film_id; title; director; actors; lyricist
+tt0021016,lb:210,vault:32,2,film_id; title; director; composer; lyricist
+tt0022251,lb:256,vault:54,2,film_id; title; lyricist; downloadroz_search_url
+tt0023334,lb:321,vault:63,2,film_id; title; director
+tt0024581,lb:368,vault:75,2,film_id; title; director; composer; lyricist
+tt0023847,lb:427,vault:67,2,film_id; title; persian_title; composer; lyricist
+tt0023871,lb:432,vault:66,2,film_id; title; persian_title; director; composer; lyricist; downloadroz_search_url
+tt0024507,lb:443,vault:73,2,film_id; title; director; composer; lyricist
+tt0024067,lb:452,vault:69,2,film_id; title; director
+tt0024736,lb:455,vault:79,2,film_id; title; persian_title; downloadroz_search_url
+tt0024873,lb:547,vault:81,2,film_id; title; director; downloadroz_search_url
+tt0026768,lb:624,vault:108,2,film_id; title; director
+tt0026301,lb:656,vault:97,2,film_id; title; persian_title; director; downloadroz_search_url
+tt0026252,lb:662,vault:96,2,film_id; title; director; composer; lyricist
+tt0028207,lb:753,vault:117,2,film_id; title; director; lyricist; downloadroz_search_url
+tt0029222,lb:917,vault:134,2,film_id; title; director; lyricist
+tt0029588,lb:997,vault:137,2,film_id; title; director; lyricist
+tt0029664,lb:1018,vault:140,2,film_id; title; director; composer; lyricist
+tt0031397,lb:1219,vault:151,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt0031765,lb:1225,vault:152,2,film_id; title; persian_title; director; actors; composer; lyricist; downloadroz_search_url
+tt0033436,lb:1316,vault:165,2,film_id; title; director; composer; downloadroz_search_url
+tt0034485,lb:1396,vault:164,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0034862,lb:1397,vault:173,2,film_id; title; director; downloadroz_search_url
+tt0035103,lb:1426,vault:175,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0035575,lb:1434,vault:177,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0034815,lb:1437,vault:170,2,film_id; title; director; composer; lyricist
+tt0035829,lb:1513,vault:180,2,film_id; title; director; downloadroz_search_url
+tt0036430,lb:1534,vault:187,2,film_id; title; director; composer; downloadroz_search_url
+tt0035916,lb:1582,vault:185,2,film_id; title; director; composer; downloadroz_search_url
+tt0037175,lb:1624,vault:195,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0037408,lb:1636,vault:197,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0036628,lb:1642,vault:189,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0036715,lb:1674,vault:196,2,film_id; title; composer; lyricist
+tt0036670,lb:1685,vault:190,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0038116,lb:1761,vault:201,2,film_id; title; director; composer; downloadroz_search_url
+tt0038262,lb:1784,vault:204,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0039054,lb:1826,vault:211,2,film_id; title; director; composer; lyricist
+tt0038776,lb:1832,vault:208,2,film_id; title; director; composer; downloadroz_search_url
+tt0038505,lb:1842,vault:207,2,film_id; title; director; composer; lyricist
+tt0039035,lb:1872,vault:210,2,film_id; title; director; composer; lyricist
+tt0039337,lb:1936,vault:212,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0039898,lb:1943,vault:219,2,film_id; title; director; composer; lyricist
+tt0237233,lb:1949,vault:214,2,film_id; title; composer; lyricist
+tt0039647,lb:1950,vault:218,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0040665,lb:1970,vault:226,2,film_id; title; director; composer; lyricist
+tt0040580,lb:1972,vault:225,2,film_id; title; director; composer; downloadroz_search_url
+tt0040669,lb:1985,vault:227,2,film_id; title; director; composer; downloadroz_search_url
+tt0041890,lb:2007,vault:221,2,film_id; title; persian_title; director; composer; lyricist; downloadroz_search_url
+tt0041571,lb:2013,vault:224,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0041158,lb:2033,vault:243,2,film_id; title; director; composer; downloadroz_search_url
+tt0041687,lb:2039,vault:237,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0041507,lb:2045,vault:235,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0041515,lb:2049,vault:236,2,film_id; title; director; composer
+tt0043153,lb:2078,vault:256,2,film_id; title; director; composer; lyricist
+tt0042769,lb:2093,vault:249,2,film_id; title; director; composer; lyricist
+tt0043081,lb:2111,vault:255,2,film_id; title; director; composer; lyricist
+tt0043115,lb:2123,vault:265,2,film_id; title; actors; composer; lyricist; downloadroz_search_url
+tt0043762,lb:2130,vault:261,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0043599,lb:2134,vault:263,2,film_id; title; director; composer; lyricist
+tt0044117,lb:2155,vault:262,2,film_id; title; director; composer; lyricist
+tt0044408,lb:2179,vault:275,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0046000,lb:2231,vault:283,2,film_id; title; director; composer; downloadroz_search_url
+tt0045586,lb:2236,vault:276,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0045670,lb:2247,vault:279,2,film_id; title; director; composer; lyricist
+tt0045591,lb:2263,vault:277,2,film_id; title; director; composer; downloadroz_search_url
+tt0045963,lb:2265,vault:282,2,film_id; title; director; composer; downloadroz_search_url
+tt0046076,lb:2272,vault:284,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt0048317,lb:2321,vault:310,2,film_id; title; director
+tt8800266,vault:894,vault:895,2,film_id; title; director; collection; note_path
+tt0085959,lb:2928,vault:556,2,film_id; title; persian_title; director; actors; composer; lyricist; downloadroz_search_url
+tt0431729,vault:407,vault:406,2,film_id; title; director; collection; note_path
+tt8022928,lb:3383,vault:893,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt7549996,lb:3556,vault:901,2,film_id; title; composer; lyricist
+tt10521814,lb:3387,vault:902,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt2066051,lb:3381,vault:904,2,film_id; title; composer; downloadroz_search_url
+tt6105098,lb:3382,vault:908,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt8079248,lb:3379,vault:911,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt1682886,lb:3370,vault:871,2,film_id; title; lyricist; downloadroz_search_url
+tt7424200,lb:3361,vault:882,2,film_id; title; director; composer; lyricist
+tt5960374,lb:3366,vault:885,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt2771200,lb:3344,vault:856,2,film_id; title; downloadroz_search_url
+tt5117876,lb:3349,vault:857,2,film_id; title; director; composer; lyricist
+tt3710966,lb:3348,vault:860,2,film_id; title; downloadroz_search_url
+tt1485796,lb:3356,vault:866,2,film_id; title; composer; downloadroz_search_url
+tt3440298,lb:3321,vault:830,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0903657,lb:3309,vault:832,2,film_id; title; persian_title; year; composer; lyricist
+tt2848292,lb:3315,vault:834,2,film_id; title; composer
+tt1398426,lb:3322,vault:838,2,film_id; title; composer; lyricist
+tt5278832,lb:3331,vault:839,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt1742044,lb:3301,vault:822,2,film_id; title; composer; lyricist
+tt2281587,lb:3298,vault:823,2,film_id; title; composer; downloadroz_search_url
+tt2808986,lb:3306,vault:825,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt1425922,lb:3294,vault:809,2,film_id; title; composer; lyricist
+tt1828959,lb:3288,vault:811,2,film_id; title; composer; downloadroz_search_url
+tt2481198,lb:3291,vault:812,2,film_id; title; composer; downloadroz_search_url
+tt1707386,lb:3285,vault:797,2,film_id; title; lyricist; downloadroz_search_url
+tt1981677,lb:3281,vault:799,2,film_id; title; composer
+tt1336608,lb:3279,vault:801,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt2124908,vault:804,vault:803,2,film_id; title; director; collection; note_path
+tt1876451,lb:3280,vault:805,2,film_id; title; composer; lyricist
+tt1673697,lb:3276,vault:807,2,film_id; title; lyricist; downloadroz_search_url
+tt1815799,lb:3264,vault:788,2,film_id; title; lyricist; downloadroz_search_url
+tt1204342,lb:3268,vault:791,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt1449283,lb:3262,vault:793,2,film_id; title; director; lyricist; downloadroz_search_url
+tt1252380,lb:3252,vault:782,2,film_id; title; composer; downloadroz_search_url
+tt1263670,lb:3241,vault:773,2,film_id; title; composer; lyricist
+tt1239426,lb:3227,vault:777,2,film_id; title; year; director; actors; composer; lyricist; downloadroz_search_url
+tt1157605,lb:3216,vault:780,2,film_id; title; persian_title; year; actors; composer; lyricist
+tt1055366,lb:3218,vault:759,2,film_id; title; composer; downloadroz_search_url
+tt1172203,vault:767,vault:768,2,film_id; collection; note_path
+tt0426931,lb:3212,vault:747,2,film_id; title; lyricist
+tt0810900,lb:3210,vault:752,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0996605,lb:3208,vault:754; vault:755,3,film_id; title; persian_title; actors; orchestrator; note_path; downloadroz_search_url
+tt0443489,lb:3203,vault:739,2,film_id; title; downloadroz_search_url
+tt0366548,lb:3201,vault:741,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0443536,lb:3188,vault:729,2,film_id; title; persian_title; director; composer; lyricist
+tt0352277,lb:3165,vault:715,2,film_id; title; persian_title; downloadroz_search_url
+tt0372824,lb:3162,vault:721,2,film_id; title; composer; lyricist
+tt0339034,lb:3154,vault:704,2,film_id; title; composer
+tt0274415,lb:3138,vault:682,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt0221300,vault:685,vault:686,2,film_id; collection; music_director; musical_supervisor; note_path
+tt0304262,lb:3144,vault:693,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt0249462,lb:3123,vault:667,2,film_id; title; composer; lyricist
+tt0116683,lb:3072,vault:644,2,film_id; title
+tt0117110,lb:3070,vault:646,2,film_id; title; director; downloadroz_search_url
+tt0111408,lb:3054,vault:633,2,film_id; title; persian_title; director; lyricist
+tt0115819,lb:3046,vault:625,2,film_id; title
+tt0105417,lb:3554,vault:621,2,film_id; title; director; actors; composer; lyricist
+tt0103855,lb:3038,vault:623,2,film_id; title; composer
+tt0104940,lb:3039,vault:624,2,film_id; title; composer; downloadroz_search_url
+tt0101761,lb:3019,vault:615,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt0095288,lb:2999,vault:593,2,film_id; title; composer; downloadroz_search_url
+tt0095655,lb:3001,vault:595,2,film_id; title; director; composer; lyricist
+tt0090585,lb:2964,vault:579,2,film_id; title; director; composer; downloadroz_search_url
+tt0092117,lb:2970,vault:581,2,film_id; title; lyricist; downloadroz_search_url
+tt0092133,lb:2968,vault:582,2,film_id; title; director; composer
+tt0087957,lb:2944,vault:561,2,film_id; title; composer; downloadroz_search_url
+tt0088178,vault:564,vault:562; vault:563,3,film_id; title; collection; note_path
+tt0087755,lb:2943,vault:567,2,film_id; title; composer
+tt0096402,lb:2937,vault:569,2,film_id; title; composer; downloadroz_search_url
+tt0086203,lb:2929,vault:554,2,film_id; title; actors; composer
+tt0086189,lb:2926,vault:557,2,film_id; title; composer
+tt0084021,lb:2917,vault:543,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt0083642,lb:2918,vault:544,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt0082009,lb:2901,vault:533,2,film_id; title; composer; downloadroz_search_url
+tt0082509,vault:535,vault:536,2,film_id; title; director; collection; note_path
+tt0080549,lb:2884,vault:526,2,film_id; title; composer; lyricist
+tt0081433,lb:2889,vault:529,2,film_id; title; composer
+tt0080380,lb:2887,vault:530,2,film_id; title; lyricist; downloadroz_search_url
+tt0081777,lb:2893,vault:531,2,film_id; title; lyricist; downloadroz_search_url
+tt0078754,lb:2883,vault:522,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0079261,lb:2871,vault:523,2,film_id; title; director; downloadroz_search_url
+tt0080391,lb:2865,vault:514,2,film_id; title; composer; lyricist
+tt0077534,lb:2863,vault:516,2,film_id; title; director; composer; lyricist; downloadroz_search_url
+tt0077890,lb:2864,vault:521,2,film_id; title
+tt0076538,lb:2852,vault:511,2,film_id; title; persian_title; director; composer; downloadroz_search_url
+tt0076363,lb:2844,vault:513,2,film_id; title; director; downloadroz_search_url
+tt0075323,lb:2833,vault:499,2,film_id; title; persian_title; director; lyricist
+tt0075232,lb:2827,vault:503,2,film_id; title; persian_title; actors; downloadroz_search_url
+tt0072272,lb:2806,vault:485,2,film_id; title; lyricist; downloadroz_search_url
+tt0070337,lb:2789,vault:475,2,film_id; title
+tt0070814,lb:2790,vault:476,2,film_id; title; composer
+tt0068909,lb:2781,vault:462,2,film_id; title; downloadroz_search_url
+tt0067992,lb:2767,vault:458,2,film_id; title; downloadroz_search_url
+tt0154685,vault:447,vault:446,2,film_id; title; note_path
+tt0066393,lb:2760,vault:451,2,film_id; title; downloadroz_search_url
+tt0064689,lb:2732,vault:433,2,film_id; title; persian_title; director; actors; composer
+tt0063823,lb:2720,vault:435,2,film_id; title; composer; downloadroz_search_url
+tt0061439,lb:2707,vault:415,2,film_id; title; director
+tt0061589,lb:2696,vault:417,2,film_id; title; composer
+tt0061749,lb:2708,vault:423,2,film_id; title; downloadroz_search_url
+tt0058953,lb:2609,vault:401,2,film_id; title; composer; lyricist; downloadroz_search_url
+tt0058708,lb:2584,vault:399,2,film_id; title; director; downloadroz_search_url
+tt0058725,lb:2571,vault:400,2,film_id; title; director; composer; downloadroz_search_url
+tt0056891,lb:2551,vault:384,2,film_id; title; director; downloadroz_search_url
+tt0057168,lb:2548,vault:385,2,film_id; title; composer; lyricist
+tt0057191,lb:2550,vault:386,2,film_id; title; director; composer; downloadroz_search_url
+tt0056023,lb:2540,vault:374,2,film_id; title; director; composer; downloadroz_search_url
+tt0056526,lb:2525,vault:378,2,film_id; title; composer; downloadroz_search_url
+tt0056262,lb:2530,vault:379,2,film_id; title; downloadroz_search_url
+tt0054885,lb:2514,vault:369,2,film_id; title; director
+tt0051634,vault:346,vault:345,2,film_id; title; director; collection; note_path
+tt0051924,lb:2431,vault:349,2,film_id; title; downloadroz_search_url
+tt0050815,lb:2419,vault:335,2,film_id; title; director; composer; downloadroz_search_url
+tt0049055,lb:2355,vault:321,2,film_id; title
+tt0049490,lb:2356,vault:325,2,film_id; title; director; lyricist; downloadroz_search_url
+tt0049682,lb:2359,vault:326,2,film_id; title
+tt0049909,lb:2372,vault:328,2,film_id; title; lyricist; downloadroz_search_url
+tt0048401,lb:2334,vault:312,2,film_id; title; director; lyricist; downloadroz_search_url
+tt0032847,lb:1308,vault:159,2,film_id; title
+tt0345476,vault:113,vault:112,2,film_id; title; director; collection; note_path
+tt0027439,vault:121,vault:120,2,film_id; title; director; composer; lyricist; music_director; arranger; orchestrator; conductor; musical_supervisor; note_path
+tt1266036,lb:3393,vault:918,2,film_id; title; downloadroz_search_url
+tt0049684,lb:2385,lb:2389,2,film_id
+tt0019193,lb:6,vault:6,2,film_id; title; director; actors; composer
+tt0019725,lb:21,vault:8,2,film_id; title; actors; downloadroz_search_url
+tt0019798,lb:35,vault:19,2,film_id; title; director; actors
+tt0020143,lb:40,vault:12,2,film_id; title; director; actors
+tt0020480,lb:63,vault:17,2,film_id; title; director; actors
+tt0020466,lb:84,vault:16,2,film_id; title; persian_title; director; actors

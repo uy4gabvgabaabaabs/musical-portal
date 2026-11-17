@@ -1,0 +1,282 @@
+﻿person_id,name,portal_name,roles,country,research_type,match_status
+MUS-P-000001,Ennio Morricone,,composer، orchestrator، conductor,Italy,person,موجود در عبارت ترکیبی
+MUS-P-000002,Betty Comden,Betty Comden,lyricist,United States,entry,اتصال دقیق
+MUS-P-000003,Adolph Green,Adolph Green,lyricist,United States,entry,اتصال دقیق
+MUS-P-000004,Andiswa Kedama,,actor، singer,آفریقای جنوبی,main,موجود در عبارت ترکیبی
+MUS-P-000005,Pauline Malefane,Pauline Malefane,actor، singer,آفریقای جنوبی,main,اتصال دقیق
+MUS-P-000006,Rainer Werner Fassbinder,Rainer Werner Fassbinder,director,آلمان,main,اتصال دقیق
+MUS-P-000007,Josef von Sternberg,Josef von Sternberg,director,اتریش,main,اتصال دقیق
+MUS-P-000008,Baz Luhrmann,Baz Luhrmann,director,استرالیا,entry,اتصال دقیق
+MUS-P-000009,Bee Gees,,music_group، songwriter,استرالیا,entry,موجود در عبارت ترکیبی
+MUS-P-000010,Robert Helpmann,Robert Helpmann,actor، dancer، choreographer,استرالیا,main,اتصال دقیق
+MUS-P-000011,Antonio Gades,Antonio Gades,dancer، choreographer، actor,اسپانیا,main,اتصال دقیق
+MUS-P-000012,Carlos Saura,Carlos Saura,director,اسپانیا,entry,اتصال دقیق
+MUS-P-000013,Paco de Lucía,Paco de Lucía,musician، composer,اسپانیا,main,اتصال دقیق
+MUS-P-000014,Moira Shearer,Moira Shearer,actor، dancer,اسکاتلند,main,اتصال دقیق
+MUS-P-000015,Alan Parker,Alan Parker,director,انگلیس,entry,اتصال دقیق
+MUS-P-000016,Eric Idle,Eric Idle,actor، songwriter,انگلیس,main,اتصال دقیق
+MUS-P-000017,Julie Andrews,Julie Andrews,actor، singer,انگلیس,main,اتصال دقیق
+MUS-P-000018,Ken Russell,Ken Russell,director,انگلیس,entry,اتصال دقیق
+MUS-P-000019,Mark Dornford-May,Mark Dornford-May,director,انگلیس,main,اتصال دقیق
+MUS-P-000020,Michael Powell,Michael Powell,director، writer، producer,انگلیس | انگلیس، مجارستان,main,اتصال دقیق
+MUS-P-000021,Robert Stevenson,Robert Stevenson,director,انگلیس,main,اتصال دقیق
+MUS-P-000022,Roger Daltrey,Roger Daltrey,actor، singer,انگلیس,main,اتصال دقیق
+MUS-P-000023,Emeric Pressburger,,director، writer، producer,انگلیس، مجارستان | مجارستان,main,موجود در عبارت ترکیبی
+MUS-P-000024,Bud Abbott,Bud Abbott,actor,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000025,Lou Costello,Lou Costello,actor,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000026,Alan Crosland,Alan Crosland,director,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000027,Austin Butler,Austin Butler,actor,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000028,Bob Fosse,Bob Fosse,choreographer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000029,Ralph Burns,Ralph Burns,arranger، orchestrator، composer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000030,Bob Hope,Bob Hope,actor,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000031,Brian De Palma,Brian De Palma,director,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000032,Busby Berkeley,Busby Berkeley,director، choreographer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000033,Buster Keaton,Buster Keaton,actor,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000034,Damien Chazelle,Damien Chazelle,director,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000035,Danny Kaye,Danny Kaye,actor,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000036,Debbie Reynolds,Debbie Reynolds,actor، singer، dancer,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000037,Dee Dee Wood,Dee Dee Wood,choreographer,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000038,Eddie Cantor,Eddie Cantor,actor,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000039,Fred Astaire,Fred Astaire,choreographer، actor، dancer، singer,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000040,Ginger Rogers,Ginger Rogers,actor، dancer، singer,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000041,Gene Kelly,Gene Kelly,actor، dancer، choreographer، director,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000042,George Cukor,George Cukor,director,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000043,George Gershwin,George Gershwin,composer,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000044,Hermes Pan,Hermes Pan,choreographer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000045,Howard Hawks,Howard Hawks,director,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000046,Jack Cole,Jack Cole,choreographer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000047,Jerome Robbins,Jerome Robbins,director، choreographer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000048,Jim Steinman,Jim Steinman,songwriter، composer,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000049,Jimmy Durante,Jimmy Durante,actor,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000050,John Travolta,John Travolta,actor، dancer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000051,Judy Garland,Judy Garland,actor، singer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000052,Keith Carradine,,actor، singer، songwriter,ایالات متحده آمریکا,main,در درگاه پیدا نشد
+MUS-P-000053,Stan Laurel,Stan Laurel,actor,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000054,Oliver Hardy,Oliver Hardy,actor,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000055,Leonard Bernstein,Leonard Bernstein,composer,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000056,Lester Wilson,Lester Wilson,choreographer,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000057,Liza Minnelli,Liza Minnelli,actor، singer,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000058,Lloyd Bacon,Lloyd Bacon,director,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000059,Madonna,Madonna,actor، singer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000060,Marc Breaux,Marc Breaux,choreographer,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000061,Marilyn Monroe,Marilyn Monroe,actor، singer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000062,Marpessa Dawn,Marpessa Dawn,actor,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000063,Dean Martin,Dean Martin,actor، singer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000064,Jerry Lewis,Jerry Lewis,actor، singer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000065,Marx Brothers,,actor,ایالات متحده آمریکا,entry,در درگاه پیدا نشد
+MUS-P-000066,Miles Teller,Miles Teller,actor,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000067,Paul Williams,Paul Williams,composer، songwriter، actor,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000068,Robert Altman,Robert Altman,director,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000069,Gabriel Yared,Gabriel Yared,composer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000070,Robert Wise,Robert Wise,director,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000071,Ron Mael,Ron Mael,composer، songwriter,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000072,Stanley Donen,Stanley Donen,director، choreographer,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000073,Terry Gilliam,Terry Gilliam,director، actor,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000074,Vincente Minnelli,Vincente Minnelli,director,ایالات متحده آمریکا,entry,اتصال دقیق
+MUS-P-000075,Walter Hill,Walter Hill,director,ایالات متحده آمریکا,main,اتصال دقیق
+MUS-P-000076,Ahdiyeh,,singer,ایران,entry,در درگاه پیدا نشد
+MUS-P-000077,محمدعلی فردین,محمدعلی فردین,actor، singer، director,ایران,main,اتصال دقیق
+MUS-P-000078,Björk,Björk,actor، singer، composer,ایسلند,entry,اتصال دقیق
+MUS-P-000079,Antônio Carlos Jobim,Antônio Carlos Jobim,composer,برزیل,main,اتصال دقیق
+MUS-P-000080,Breno Mello,Breno Mello,actor,برزیل,main,اتصال دقیق
+MUS-P-000081,Luiz Bonfá,Luiz Bonfá,composer,برزیل,main,اتصال دقیق
+MUS-P-000082,Charlie Chaplin,Charlie Chaplin,actor,بریتانیا,entry,اتصال دقیق
+MUS-P-000083,Benoît Lamy,,director,بلژیک,main,موجود در عبارت ترکیبی
+MUS-P-000084,S. D. Burman,S. D. Burman,composer,بنگلادش,main,اتصال دقیق
+MUS-P-000085,Mwezé Ngangura,,director,جمهوری دموکراتیک کنگو,main,موجود در عبارت ترکیبی
+MUS-P-000086,Papa Wemba,Papa Wemba,actor، singer، musician,جمهوری دموکراتیک کنگو,main,اتصال دقیق
+MUS-P-000087,Lars von Trier,Lars von Trier,director,دانمارک,main,اتصال دقیق
+MUS-P-000088,Léonide Massine,Léonide Massine,dancer، choreographer,روسیه,main,اتصال دقیق
+MUS-P-000089,Emil Jannings,Emil Jannings,actor,سوئیس,main,اتصال دقیق
+MUS-P-000090,Georges Van Parys,Georges Van Parys,composer,فرانسه,main,اتصال دقیق
+MUS-P-000091,Jacques Demy,Jacques Demy,director,فرانسه,main,اتصال دقیق
+MUS-P-000092,Jacques Tati,,actor,فرانسه,entry,در درگاه پیدا نشد
+MUS-P-000093,Leos Carax,Leos Carax,director,فرانسه,entry,اتصال دقیق
+MUS-P-000094,Marcel Camus,Marcel Camus,director,فرانسه,main,اتصال دقیق
+MUS-P-000095,Michel Legrand,Michel Legrand,composer,فرانسه,main,اتصال دقیق
+MUS-P-000096,René Clair,René Clair,director,فرانسه,main,اتصال دقیق
+MUS-P-000097,Hanna Schygulla,Hanna Schygulla,actor، singer,لهستان,main,اتصال دقیق
+MUS-P-000098,Joanna Kulig,Joanna Kulig,actor، singer,لهستان,main,اتصال دقیق
+MUS-P-000099,Paweł Pawlikowski,Paweł Pawlikowski,director,لهستان,main,اتصال دقیق
+MUS-P-000100,Al Jolson,Al Jolson,actor، singer,لیتوانی,main,اتصال دقیق
+MUS-P-000101,Lee Kang-sheng,Lee Kang-sheng,actor,مالزی,main,اتصال دقیق
+MUS-P-000102,Tsai Ming-liang,Tsai Ming-liang,director,مالزی,main,اتصال دقیق
+MUS-P-000103,A. R. Rahman,A. R. Rahman,composer,هند,main,اتصال دقیق
+MUS-P-000104,Aamir Khan,Aamir Khan,actor، producer,هند,main,اتصال دقیق
+MUS-P-000105,Aishwarya Rai,Aishwarya Rai,actor,هند,entry,اتصال دقیق
+MUS-P-000106,Ashutosh Gowariker,Ashutosh Gowariker,director,هند,main,اتصال دقیق
+MUS-P-000107,Birju Maharaj,Birju Maharaj,choreographer، dancer,هند,main,اتصال دقیق
+MUS-P-000108,Chhabi Biswas,Chhabi Biswas,actor,هند,main,اتصال دقیق
+MUS-P-000109,Farah Khan,Farah Khan,choreographer,هند,main,اتصال دقیق
+MUS-P-000110,Guru Dutt,Guru Dutt,director، actor,هند,entry,اتصال دقیق
+MUS-P-000111,Ilaiyaraaja,Ilaiyaraaja,composer، singer,هند,entry,اتصال دقیق
+MUS-P-000112,M. M. Keeravani,M. M. Keeravani,composer,هند,main,اتصال دقیق
+MUS-P-000113,Madhuri Dixit,Madhuri Dixit,actor، dancer,هند,main,اتصال دقیق
+MUS-P-000114,Mani Ratnam,Mani Ratnam,director,هند,main,اتصال دقیق
+MUS-P-000115,N. T. Rama Rao Jr.,N.T. Rama Rao Jr.,actor، dancer,هند,main,اتصال دقیق
+MUS-P-000116,Nargis,Nargis,actor,هند,main,اتصال دقیق
+MUS-P-000117,Prem Rakshith,Prem Rakshith,choreographer,هند,main,اتصال دقیق
+MUS-P-000118,Raj Kapoor,Raj Kapoor,actor، director,هند,entry,اتصال دقیق
+MUS-P-000119,Ram Charan,Ram Charan,actor، dancer,هند,main,اتصال دقیق
+MUS-P-000120,S. S. Rajamouli,S. S. Rajamouli,director,هند,main,اتصال دقیق
+MUS-P-000121,Sanjay Leela Bhansali,Sanjay Leela Bhansali,director,هند,main,اتصال دقیق
+MUS-P-000122,Saroj Khan,Saroj Khan,choreographer,هند,entry,اتصال دقیق
+MUS-P-000123,Satyajit Ray,Satyajit Ray,director,هند,main,اتصال دقیق
+MUS-P-000124,Shah Rukh Khan,Shah Rukh Khan,actor,هند,entry,اتصال دقیق
+MUS-P-000125,Vaibhavi Merchant,Vaibhavi Merchant,choreographer,هند,main,اتصال دقیق
+MUS-P-000126,Vijay Anand,Vijay Anand,director,هند,main,اتصال دقیق
+MUS-P-000127,Waheeda Rehman,Waheeda Rehman,actor، dancer,هند,main,اتصال دقیق
+MUS-P-000128,Dev Anand,Dev Anand,actor,پاکستان,main,اتصال دقیق
+MUS-P-000129,Tan Dun,Tan Dun,composer,چین,main,اتصال دقیق
+MUS-P-000130,Zhang Yimou,,director,چین,main,در درگاه پیدا نشد
+MUS-P-000131,Kakuko Mori,Kakuko Mori,actor,ژاپن,main,اتصال دقیق
+MUS-P-000132,Kenji Mizoguchi,Kenji Mizoguchi,director,ژاپن,main,اتصال دقیق
+MUS-P-000133,Senji Ito,Senji Itō,composer,ژاپن,entry,اتصال دقیق
+MUS-P-000134,Ruby Keeler,Ruby Keeler,actor، dancer,کانادا,main,اتصال دقیق
+MUS-P-000135,Adam Shankman,Adam Shankman,director، choreographer، actor، dancer، producer، writer,,person,اتصال دقیق
+MUS-P-000136,Adrian Lyne,Adrian Lyne,director,,person,اتصال دقیق
+MUS-P-000137,Alain Resnais,Alain Resnais,director، screenwriter، writer,,person,اتصال دقیق
+MUS-P-000138,Alan Jay Lerner,Alan Jay Lerner,writer، lyricist,,entry,اتصال دقیق
+MUS-P-000139,Alan Lomax,,musicologist، archivist,,entry,در درگاه پیدا نشد
+MUS-P-000140,Alex Sharp,Alex Sharp,actor,,person,اتصال دقیق
+MUS-P-000141,Alfred Hitchcock,Alfred Hitchcock,director,,entry,اتصال دقیق
+MUS-P-000142,Bernard Herrmann,,composer,,entry,در درگاه پیدا نشد
+MUS-P-000143,Alice Guy-Blaché,,director,,entry,در درگاه پیدا نشد
+MUS-P-000144,Andrew Lloyd Webber,Andrew Lloyd Webber,composer، songwriter,,entry,اتصال دقیق
+MUS-P-000145,Anne Marie Fletcher,Anne Fletcher,director، choreographer,,entry,اختلاف املایی/نام مستعار
+MUS-P-000146,Arthur Freed,Arthur Freed,producer,,entry,اتصال دقیق
+MUS-P-000147,Audrey Hepburn,Audrey Hepburn,actor,,person,اتصال دقیق
+MUS-P-000148,Barbra Streisand,Barbra Streisand,actor، singer، director,,entry,اتصال دقیق
+MUS-P-000149,Hector Berlioz,,composer,,entry,در درگاه پیدا نشد
+MUS-P-000150,Franz Schubert,Franz Schubert,composer,,entry,اتصال دقیق
+MUS-P-000151,Bessie Love,Bessie Love,actor,,person,اتصال دقیق
+MUS-P-000152,Billy Wilder,Billy Wilder,director، producer، screenwriter,,person,اتصال دقیق
+MUS-P-000153,Bing Crosby,Bing Crosby,actor، singer,,entry,اتصال دقیق
+MUS-P-000154,Blake Edwards,Blake Edwards,director، actor، producer، screenwriter,,person,اتصال دقیق
+MUS-P-000155,Bram Stoker,,actor، writer,,person,در درگاه پیدا نشد
+MUS-P-000156,Carlos Gardel,Carlos Gardel,singer، actor، composer,,entry,اتصال دقیق
+MUS-P-000157,Carol Reed,Carol Reed,director، producer,,person,اتصال دقیق
+MUS-P-000158,Catherine Deneuve,Catherine Deneuve,actor، singer,,entry,اتصال دقیق
+MUS-P-000159,Catherine Zeta-Jones,Catherine Zeta-Jones,actor,,person,اتصال دقیق
+MUS-P-000160,Chantal Akerman,Chantal Akerman,director,,entry,اتصال دقیق
+MUS-P-000161,Charles Walters,Charles Walters,choreographer,,entry,اتصال دقیق
+MUS-P-000162,Christian Bale,Christian Bale,actor,,person,اتصال دقیق
+MUS-P-000163,David Butler,David Butler,director، actor، producer، screenwriter,,person,اتصال دقیق
+MUS-P-000164,Deborah Kerr,Deborah Kerr,actor,,person,اتصال دقیق
+MUS-P-000165,Edgar Wright,Edgar Wright,director، producer، screenwriter,,person,اتصال دقیق
+MUS-P-000166,Edith Piaf,Édith Piaf,singer، actor,,entry,اتصال دقیق
+MUS-P-000167,Edward Norton,Edward Norton,actor,,person,اتصال دقیق
+MUS-P-000168,Elizabeth Berkley,Elizabeth Berkley,actor,,person,اتصال دقیق
+MUS-P-000169,Emma Stone,Emma Stone,actor، producer,,person,اتصال دقیق
+MUS-P-000170,Ernst Lubitsch,Ernst Lubitsch,director، writer,,entry,اتصال دقیق
+MUS-P-000171,Jean Leopold,,composer,,entry,در درگاه پیدا نشد
+MUS-P-000172,Esther Williams,Esther Williams,singer، actor,,person,اتصال دقیق
+MUS-P-000173,Ethan Coen,Ethan Coen,director، producer، screenwriter,,person,اتصال دقیق
+MUS-P-000174,Fanny Ardant,Fanny Ardant,actor,,person,اتصال دقیق
+MUS-P-000175,Federico Fellini,Federico Fellini,director، writer,,entry,اتصال دقیق
+MUS-P-000176,Nino Rota,Nino Rota,composer,,entry,اتصال دقیق
+MUS-P-000177,Flora Gomes,Flora Gomes,director,,entry,اتصال دقیق
+MUS-P-000178,Frank Butler,,writer,,entry,در درگاه پیدا نشد
+MUS-P-000179,Frank Capra,Frank Capra,director,,person,اتصال دقیق
+MUS-P-000180,Frank Oz,Frank Oz,director، actor,,person,اتصال دقیق
+MUS-P-000181,Frank Sinatra,Frank Sinatra,actor، singer,,entry,اتصال دقیق
+MUS-P-000182,François Ozon,François Ozon,director، screenwriter,,person,اتصال دقیق
+MUS-P-000183,Françoise Hardy,,singer، songwriter، actor,,entry,در درگاه پیدا نشد
+MUS-P-000184,Fred Zinnemann,Fred Zinnemann,director,,person,اتصال دقیق
+MUS-P-000185,George Balanchine,,choreographer، dancer,,entry,در درگاه پیدا نشد
+MUS-P-000186,George Roy Hill,George Roy Hill,director,,person,اتصال دقیق
+MUS-P-000187,George Sidney,George Sidney,producer,,person,اتصال دقیق
+MUS-P-000188,George Stevens,George Stevens,director، producer، screenwriter,,person,اتصال دقیق
+MUS-P-000189,Georges Delerue,Georges Delerue,composer,,entry,اتصال دقیق
+MUS-P-000190,Gerard Butler,Gerard Butler,actor، producer,,person,اتصال دقیق
+MUS-P-000191,Guy Maddin,Guy Maddin,director، screenwriter، writer,,person,اتصال دقیق
+MUS-P-000192,H. C. Potter,H. C. Potter,director، producer,,person,اتصال دقیق
+MUS-P-000193,Hans Christian Andersen,,writer,,entry,در درگاه پیدا نشد
+MUS-P-000194,Hans Richter,Hans Richter,director، artist,,entry,اتصال دقیق
+MUS-P-000195,Harry A. Pollard,Harry A. Pollard,director، actor، screenwriter,,person,اتصال دقیق
+MUS-P-000196,Harry Beaumont,Harry Beaumont,director، actor، screenwriter,,person,اتصال دقیق
+MUS-P-000197,Hatsune Miku,,virtual singer,,entry,در درگاه پیدا نشد
+MUS-P-000198,Henry King,Henry King,director، actor,,person,اتصال دقیق
+MUS-P-000199,Herbert Ross,Herbert Ross,director، choreographer,,entry,اتصال دقیق
+MUS-P-000200,Ingmar Bergman,Ingmar Bergman,director، actor، screenwriter,,person,اتصال دقیق
+MUS-P-000201,Irving Cummings,Irving Cummings,director، actor,,person,اتصال دقیق
+MUS-P-000202,Jean Ross,,writer، performer,,entry,در درگاه پیدا نشد
+MUS-P-000203,Jean-Luc Godard,Jean-Luc Godard,director، screenwriter,,person,اتصال دقیق
+MUS-P-000204,Jim Abrahams,,director، writer,,person,موجود در عبارت ترکیبی
+MUS-P-000205,Jim Sharman,Jim Sharman,director، writer,,person,اتصال دقیق
+MUS-P-000206,Joe Eszterhas,,writer,,entry,در درگاه پیدا نشد
+MUS-P-000207,Joel Schumacher,Joel Schumacher,director، producer، screenwriter,,person,اتصال دقیق
+MUS-P-000208,John Waters,John Waters,actor، writer، director,,person,اتصال دقیق
+MUS-P-000209,John Williams,John Williams,composer، conductor,,entry,اتصال دقیق
+MUS-P-000210,Johnny Depp,Johnny Depp,actor,,person,اتصال دقیق
+MUS-P-000211,Joshua Logan,Joshua Logan,director، writer,,person,اتصال دقیق
+MUS-P-000212,Julie Taymor,Julie Taymor,director,,entry,اتصال دقیق
+MUS-P-000213,Julien Temple,Julien Temple,director,,person,اتصال دقیق
+MUS-P-000214,June Allyson,June Allyson,actor,,person,اتصال دقیق
+MUS-P-000215,Ken Hughes,Ken Hughes,director,,person,اتصال دقیق
+MUS-P-000216,Kenny Ortega,Kenny Ortega,director، choreographer,,entry,اتصال دقیق
+MUS-P-000217,King Vidor,King Vidor,director، producer، screenwriter,,person,اتصال دقیق
+MUS-P-000218,Lady Gaga,Lady Gaga,singer، songwriter، actor,,entry,اتصال دقیق
+MUS-P-000219,Lata Mangeshkar,,singer,,entry,در درگاه پیدا نشد
+MUS-P-000220,Len Lye,Len Lye,director، artist,,entry,اتصال دقیق
+MUS-P-000221,Lewis Milestone,Lewis Milestone,director,,person,اتصال دقیق
+MUS-P-000222,Lisa Niemi,Lisa Niemi,director، performer,,entry,اتصال دقیق
+MUS-P-000223,Mark Sandrich,Mark Sandrich,director,,person,اتصال دقیق
+MUS-P-000224,Marnie Nixon,,singer، actor,,entry,در درگاه پیدا نشد
+MUS-P-000225,Maruschka Detmers,Maruschka Detmers,actor,,person,اتصال دقیق
+MUS-P-000226,Maya Deren,,director,,entry,در درگاه پیدا نشد
+MUS-P-000227,Mel Brooks,Mel Brooks,actor,,person,اتصال دقیق
+MUS-P-000228,Mervyn LeRoy,Mervyn LeRoy,director، producer,,person,اتصال دقیق
+MUS-P-000229,Meryl Streep,Meryl Streep,actor,,entry,اتصال دقیق
+MUS-P-000230,Michael Curtiz,Michael Curtiz,director,,person,اتصال دقیق
+MUS-P-000231,Michael Jackson,Michael Jackson,singer، dancer، actor,,entry,اتصال دقیق
+MUS-P-000232,Michael Kidd,Michael Kidd,choreographer,,entry,اتصال دقیق
+MUS-P-000233,Michael Winterbottom,Michael Winterbottom,director,,person,اتصال دقیق
+MUS-P-000234,Michel Gondry,,director,,entry,موجود در عبارت ترکیبی
+MUS-P-000235,Miloš Forman,Miloš Forman,director، screenwriter,,person,اتصال دقیق
+MUS-P-000236,Miriam Makeba,Miriam Makeba,singer، actor,,entry,اتصال دقیق
+MUS-P-000237,Natalie Wood,Natalie Wood,actor,,entry,اتصال دقیق
+MUS-P-000238,Nico,Nico,singer، actor,,entry,اتصال دقیق
+MUS-P-000239,Ninette de Ni,,dancer,,entry,در درگاه پیدا نشد
+MUS-P-000240,Norman Jewison,Norman Jewison,director، actor، producer,,person,اتصال دقیق
+MUS-P-000241,Norman Taurog,Norman Taurog,director، actor، screenwriter,,person,اتصال دقیق
+MUS-P-000242,Otto Preminger,Otto Preminger,director، actor، producer,,person,اتصال دقیق
+MUS-P-000243,Paul Verhoeven,Paul Verhoeven,director,,person,اتصال دقیق
+MUS-P-000244,Phyllida Lloyd,Phyllida Lloyd,director,,entry,اتصال دقیق
+MUS-P-000245,Ramin Djawadi,,composer,,entry,در درگاه پیدا نشد
+MUS-P-000246,Randal Kleiser,Randal Kleiser,director، actor، producer، screenwriter,,person,اتصال دقیق
+MUS-P-000247,Ray Enright,Ray Enright,director، screenwriter,,person,اتصال دقیق
+MUS-P-000248,Richard Lester,Richard Lester,director,,person,اتصال دقیق
+MUS-P-000249,Richard Thorpe,Richard Thorpe,director، actor,,person,اتصال دقیق
+MUS-P-000250,Richard Wagner,Richard Wagner,composer,,entry,اتصال دقیق
+MUS-P-000251,Rob Marshall,Rob Marshall,director، choreographer,,entry,اتصال دقیق
+MUS-P-000252,Robert Powell,Robert Powell,actor,,person,اتصال دقیق
+MUS-P-000253,Robert Z. Leonard,Robert Z. Leonard,director، actor، producer، screenwriter,,person,اتصال دقیق
+MUS-P-000254,Ron Moody,Ron Moody,actor,,person,اتصال دقیق
+MUS-P-000255,Rouben Mamoulian,Rouben Mamoulian,director، screenwriter,,entry,اتصال دقیق
+MUS-P-000256,Roy Del Ruth,Roy Del Ruth,director,,person,اتصال دقیق
+MUS-P-000257,Roy Rowland,Roy Rowland,director، actor، producer,,person,اتصال دقیق
+MUS-P-000258,Samson Raphaelson,,writer,,entry,در درگاه پیدا نشد
+MUS-P-000259,Shirley MacLaine,Shirley MacLaine,actor,,person,اتصال دقیق
+MUS-P-000260,Shreya Ghoshal,,singer,,entry,در درگاه پیدا نشد
+MUS-P-000261,Steve Coogan,Steve Coogan,actor,,person,اتصال دقیق
+MUS-P-000262,Susan Stroman,Susan Stroman,director، choreographer,,entry,اتصال دقیق
+MUS-P-000263,Taylor Hackford,Taylor Hackford,director,,person,اتصال دقیق
+MUS-P-000264,Taylor Swift,Taylor Swift,singer، songwriter، actor,,entry,اتصال دقیق
+MUS-P-000265,Terrence Malick,,director، writer,,entry,در درگاه پیدا نشد
+MUS-P-000266,The Beatles,The Beatles,musician,,entry,اتصال دقیق
+MUS-P-000267,Thornton Freeland,Thornton Freeland,director,,person,اتصال دقیق
+MUS-P-000268,Tim Burton,Tim Burton,director، producer، writer، artist,,person,اتصال دقیق
+MUS-P-000269,Tim Curry,Tim Curry,actor,,person,اتصال دقیق
+MUS-P-000270,Tom Hooper,Tom Hooper,director,,entry,اتصال دقیق
+MUS-P-000271,Tom Hulce,Tom Hulce,actor، producer,,person,اتصال دقیق
+MUS-P-000272,Umm Kulthum,Umm Kulthum,singer، actor,,entry,اتصال دقیق
+MUS-P-000273,Ustad Vilayat Khan,Vilayat Khan,musician، composer,,entry,اختلاف املایی/نام مستعار
+MUS-P-000274,Val Kilmer,Val Kilmer,actor,,person,اتصال دقیق
+MUS-P-000275,Victor Fleming,Victor Fleming,director، producer,,person,اتصال دقیق
+MUS-P-000276,Walter Lang,Walter Lang,director,,person,اتصال دقیق
+MUS-P-000277,William Fountaine,William Fountaine,actor,,person,اتصال دقیق
+MUS-P-000278,William Wyler,William Wyler,director، producer,,person,اتصال دقیق
+MUS-P-000279,Woody Allen,Woody Allen,actor,,person,اتصال دقیق
+MUS-P-000280,Yuen Woo-ping,,choreographer، director,,entry,در درگاه پیدا نشد
+MUS-P-000281,Amol Palekar,Amol Palekar,director، actor,هند,person,اتصال دقیق

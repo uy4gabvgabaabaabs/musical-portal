@@ -1,0 +1,54 @@
+.film-genres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 8px 0 10px;
+}
+
+.genre-chip {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #5d5133;
+  border-radius: 999px;
+  padding: 3px 9px;
+  color: var(--gold2);
+  background: rgba(108, 90, 46, .12);
+  font-size: 12px;
+  line-height: 1.5;
+  text-decoration: none;
+  transition: .18s ease;
+}
+
+.genre-chip:hover,
+.genre-chip:focus-visible {
+  color: #fff3c4;
+  border-color: var(--gold2);
+  background: rgba(226, 184, 87, .2);
+  transform: translateY(-1px);
+}
+
+.imdb-genre-tags{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 6px}
+.imdb-genre-chip{display:inline-flex;align-items:center;border-radius:999px;padding:3px 9px;font-size:12px;line-height:1.5;text-decoration:none;transition:.18s ease}
+.imdb-genre-chip.music{color:#bcecff;border:1px solid #377890;background:rgba(46,134,171,.16)}
+.imdb-genre-chip.musical{color:#ffe4a0;border:1px solid #8d6b27;background:rgba(174,125,25,.16)}
+.imdb-genre-chip:hover,.imdb-genre-chip:focus-visible{color:#fff;transform:translateY(-1px);filter:brightness(1.25)}
+
+.genre-page-heading {
+  margin: 4px 0 24px;
+  padding: 22px 24px;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  background: linear-gradient(135deg, rgba(226, 184, 87, .12), rgba(255, 255, 255, .02));
+}
+
+.genre-page-heading h1 { margin: 4px 0; font-size: clamp(30px, 5vw, 52px); }
+.genre-page-heading p { margin: 0; color: var(--muted); }
+
+.film-styles{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px}
+.style-chip{display:inline-flex;align-items:center;border:1px solid #5a3b69;border-radius:999px;padding:3px 9px;color:#e5b8ff;background:rgba(116,55,145,.14);font-size:12px;line-height:1.5;transition:.18s ease}
+.style-chip:hover,.style-chip:focus-visible{color:#fff;border-color:#d497f2;background:rgba(116,55,145,.28);transform:translateY(-1px)}
+.style-page-heading{background:linear-gradient(135deg,rgba(116,55,145,.18),rgba(255,255,255,.02));border-color:#4e3659}
+.films-shell .toolbar{grid-template-columns:repeat(auto-fit,minmax(145px,1fr))}
+.films-shell .toolbar input{grid-column:span 2}
+.style-nav{border:1px solid #70458a;background:#3d214b;color:#f3d9ff;border-radius:12px;padding:0 18px;font:inherit;cursor:pointer;min-height:48px}
+@media(max-width:700px){.films-shell .toolbar input{grid-column:auto}}
