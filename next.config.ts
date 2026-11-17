@@ -1,7 +1,20 @@
 import type { NextConfig } from "next";
 
+const isGitHubPages = process.env.GITHUB_ACTIONS === "true";
+
 const nextConfig: NextConfig = {
-  /* config options here */
+  ...(isGitHubPages
+    ? {
+        output: "export",
+        basePath: "/musical-portal",
+        assetPrefix: "/musical-portal",
+        trailingSlash: true,
+        images: { unoptimized: true },
+        // The Worker-only db/ and worker/ modules use Cloudflare virtual types
+        // that are intentionally absent from the static GitHub Pages build.
+        typescript: { ignoreBuildErrors: true },
+      }
+    : {}),
 };
 
 export default nextConfig;

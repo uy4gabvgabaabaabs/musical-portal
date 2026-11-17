@@ -2,6 +2,37 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
+const githubPagesBridge = `
+(() => {
+  const base = location.pathname === "/musical-portal" || location.pathname.startsWith("/musical-portal/")
+    ? "/musical-portal"
+    : "";
+  if (!base) return;
+
+  const originalFetch = window.fetch.bind(window);
+  window.fetch = (input, init) => {
+    if (typeof input === "string" && input.startsWith("/") && !input.startsWith(base + "/")) {
+      input = base + input;
+    }
+    return originalFetch(input, init);
+  };
+
+  document.addEventListener("click", (event) => {
+    const anchor = event.target instanceof Element ? event.target.closest("a") : null;
+    const href = anchor?.getAttribute("href");
+    if (!href || !href.startsWith("/")) return;
+    if (href.includes("?")) {
+      event.preventDefault();
+      location.href = href.startsWith(base + "/") ? href : base + href;
+      return;
+    }
+    if (href.startsWith(base + "/")) return;
+    event.preventDefault();
+    location.href = base + href;
+  }, true);
+})();
+`;
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -31,6 +62,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="fa" dir="rtl">
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: githubPagesBridge }} />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
