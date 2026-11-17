@@ -10,8 +10,8 @@ const nextConfig: NextConfig = {
         assetPrefix: "/musical-portal",
         trailingSlash: true,
         images: { unoptimized: true },
-        // The Worker-only db/ and worker/ modules use Cloudflare virtual types
-        // that are intentionally absent from the static GitHub Pages build.
+        // Worker-only modules use Cloudflare virtual types that are absent
+        // from the static GitHub Pages build.
         typescript: { ignoreBuildErrors: true },
       }
     : {}),

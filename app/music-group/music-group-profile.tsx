@@ -1,0 +1,16 @@
+"use client";
+import Link from "next/link";
+import {useEffect,useMemo,useState} from "react";
+
+type Row=Record<string,string>;
+function parseCSV(text:string):Row[]{const rows:string[][]=[];let row:string[]=[],cell="",quoted=false;for(let i=0;i<text.length;i++){const c=text[i];if(c==='"'){if(quoted&&text[i+1]==='"'){cell+='"';i++}else quoted=!quoted}else if(c===','&&!quoted){row.push(cell);cell=""}else if((c==='\n'||c==='\r')&&!quoted){if(c==='\r'&&text[i+1]==='\n')i++;row.push(cell);if(row.some(Boolean))rows.push(row);row=[];cell=""}else cell+=c}if(cell||row.length){row.push(cell);rows.push(row)}const headers=rows.shift()?.map(h=>h.replace(/^\uFEFF/,""))??[];return rows.map(r=>Object.fromEntries(headers.map((h,i)=>[h,r[i]??""])))}
+
+export default function MusicGroupProfile(){
+  const [groups,setGroups]=useState<Row[]>([]),[relations,setRelations]=useState<Row[]>([]),[ready,setReady]=useState(false),[groupId,setGroupId]=useState("");
+  useEffect(()=>{Promise.all([fetch("/music_groups.csv").then(r=>r.text()),fetch("/music_group_relations.csv").then(r=>r.text())]).then(([g,r])=>{setGroupId(new URLSearchParams(location.search).get("id")||"");setGroups(parseCSV(g));setRelations(parseCSV(r));setReady(true)})},[]);
+  const group=groups.find(g=>g.group_id===groupId),works=useMemo(()=>relations.filter(r=>r.group_id===groupId),[relations,groupId]),films=works.filter(w=>w.work_type==="فیلم"),documentaries=works.filter(w=>w.work_type==="مستند");
+  if(!ready)return <div className="loading">در حال آماده‌سازی پروندهٔ گروه…</div>;
+  if(!group)return <main className="profile-shell" dir="rtl"><section className="profile-card"><h1>گروه پیدا نشد</h1><Link className="button" href="/music-groups">بازگشت به گروه‌ها</Link></section></main>;
+  const Work=({item}:{item:Row})=><Link className="group-work" href={item.work_type==="مستند"?`/documentary?id=${encodeURIComponent(item.work_id)}`:`/films?film_id=${encodeURIComponent(item.work_id)}`}><b>{item.persian_title||item.title}</b>{item.persian_title&&<span>{item.title}</span>}<small>{[item.year,item.role].filter(Boolean).join(" · ")}</small></Link>;
+  return <main className="music-group-profile" dir="rtl"><nav className="nav wrap"><Link className="brand" href="/">درگاه <span>موزیکال</span></Link><Link className="nav-note" href="/music-groups">بازگشت به گروه‌ها</Link></nav><section className="profile-card"><div className="group-id">{group.group_id}</div><h1 dir="ltr">{group.name}</h1><div className="profile-subtitle">گروه موسیقی / Band</div><div className="person-quick-meta"><span>{films.length.toLocaleString("fa-IR")} فیلم</span><span>{documentaries.length.toLocaleString("fa-IR")} مستند</span><span>اطمینان {group.confidence}</span></div>{group.imdb_url&&<div className="profile-actions"><a className="group-imdb" href={group.imdb_url} target="_blank" rel="noreferrer">پرونده در IMDb ↗</a></div>}{films.length>0&&<section className="group-work-section"><h2>فیلم‌ها</h2><div className="group-work-grid">{films.map((item,i)=><Work item={item} key={`${item.work_id}-${i}`}/>)}</div></section>}{documentaries.length>0&&<section className="group-work-section"><h2>مستندها</h2><div className="group-work-grid">{documentaries.map((item,i)=><Work item={item} key={`${item.work_id}-${i}`}/>)}</div></section>}</section></main>
+}

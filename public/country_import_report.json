@@ -1,0 +1,49 @@
+{
+  "input_rows": 3604,
+  "imported": 3602,
+  "rejected": 2,
+  "rejected_reasons": {
+    "country_not_found": [
+      {
+        "film_id": "vault:884",
+        "imdb_id": "tt8083622",
+        "imdb_url": "https://www.imdb.com/title/tt8083622/",
+        "title": "The Toxic Avenger: The Musical 2018",
+        "persian_title": "انتقام‌جوی سمی: موزیکال",
+        "year": "2018",
+        "director": "Nick Morris",
+        "country": "",
+        "country_codes": "",
+        "country_source_url": "https://www.imdb.com/title/tt8083622/",
+        "country_status": "not-found",
+        "country_notes": "IMDb title: The Toxic Avenger: The Musical",
+        "reason": "country_not_found"
+      },
+      {
+        "film_id": "lb:2592",
+        "imdb_id": "tt0595374",
+        "imdb_url": "https://www.imdb.com/title/tt0595374/",
+        "title": "The Fantasticks",
+        "persian_title": "خیال‌پردازان",
+        "year": "1964",
+        "director": "Michael Ritchie",
+        "country": "",
+        "country_codes": "",
+        "country_source_url": "https://www.imdb.com/title/tt0595374/",
+        "country_status": "not-found",
+        "country_notes": "IMDb title: The Fantasticks",
+        "reason": "country_not_found"
+      }
+    ]
+  },
+  "unresolved": 40,
+  "totals": {
+    "total": 4591,
+    "country_present": 4551,
+    "country_missing": 40,
+    "global_any": 1824,
+    "non_us_only": 1548,
+    "us_and_global": 276,
+    "us_only": 2727
+  }
+}

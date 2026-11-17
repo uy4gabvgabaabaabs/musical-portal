@@ -10,6 +10,7 @@ type MusicCenteredFilm = {
   persian_title: string;
   year: string;
   director: string;
+  country: string;
   music_axis: string;
   imdb_id: string;
   imdb_url: string;
@@ -45,7 +46,7 @@ function parseCSV(text: string): Record<string, string>[] {
 }
 
 function prompt(item: MusicCenteredFilm) {
-  return `این فیلم را برای مدخل «فیلم‌های موسیقی‌محور اما نه لزوماً موزیکال» در کتاب علیرضا کاوه تحلیل کن. توضیح بده موسیقی چگونه روایت، شخصیت، اجرا، حافظه یا ساختمان صوری فیلم را می‌سازد. مرز آن را با موزیکال و فیلمی که فقط موسیقی متن برجسته دارد روشن کن و اگر داده‌ای قطعی نیست حدس نزن.\n\nTitle: ${item.title}\nYear: ${item.year}\nDirector: ${item.director}\nEditorial axis: ${item.music_axis}\nIMDb: ${item.imdb_id}`;
+  return `این فیلم را برای مدخل «فیلم‌های موسیقی‌محور اما نه لزوماً موزیکال» در کتاب علیرضا کاوه تحلیل کن. توضیح بده موسیقی چگونه روایت، شخصیت، اجرا، حافظه یا ساختمان صوری فیلم را می‌سازد. مرز آن را با موزیکال و فیلمی که فقط موسیقی متن برجسته دارد روشن کن و اگر داده‌ای قطعی نیست حدس نزن.\n\nTitle: ${item.title}\nYear: ${item.year}\nDirector: ${item.director}\nCountry: ${item.country || "—"}\nEditorial axis: ${item.music_axis}\nIMDb: ${item.imdb_id}`;
 }
 
 export default function MusicCenteredDirectory() {
@@ -64,7 +65,7 @@ export default function MusicCenteredDirectory() {
     const normalized = query.trim().toLocaleLowerCase();
     return data.filter(item => {
       const connected = Boolean(item.film_id || item.documentary_id || item.animation_id);
-      return (!normalized || `${item.title} ${item.persian_title} ${item.director} ${item.imdb_id} ${item.music_axis}`.toLocaleLowerCase().includes(normalized))
+      return (!normalized || `${item.title} ${item.persian_title} ${item.director} ${item.country} ${item.imdb_id} ${item.music_axis}`.toLocaleLowerCase().includes(normalized))
         && (!axis || item.music_axis === axis)
         && (!connection || (connection === "connected" ? connected : !connected));
     });
@@ -94,7 +95,7 @@ export default function MusicCenteredDirectory() {
         <div className="record-id">{item.music_centered_id}</div>
         <div className="film-title-fa">{item.persian_title}</div>
         <div className="film-title" dir="ltr">{item.title}</div>
-        <div className="film-meta">{item.year} · {item.imdb_id}</div>
+        <div className="film-meta">{[item.year, item.country, item.imdb_id].filter(Boolean).join(" · ")}</div>
         <div className="documentary-badges"><span>{item.music_axis}</span>{item.film_id && <span>متصل به فیلم</span>}{item.documentary_id && <span>متصل به مستند</span>}{!item.film_id && !item.documentary_id && !item.animation_id && <span className="independent-badge">مستقل</span>}</div>
         <div className="film-row"><span className="film-label">کارگردان: </span><span dir="ltr">{item.director}</span></div>
         <div className="card-actions">

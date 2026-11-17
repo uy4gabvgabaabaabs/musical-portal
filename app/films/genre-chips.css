@@ -51,4 +51,5 @@
 .films-shell .toolbar{grid-template-columns:repeat(auto-fit,minmax(145px,1fr))}
 .films-shell .toolbar input{grid-column:span 2}
 .style-nav{border:1px solid #70458a;background:#3d214b;color:#f3d9ff;border-radius:12px;padding:0 18px;font:inherit;cursor:pointer;min-height:48px}
+.global-nav{border-color:#2f7468;background:#173e39;color:#bff4e8}.global-nav.active{background:#2f8d7e;color:#fff;box-shadow:0 0 0 2px rgba(92,211,191,.18)}
 @media(max-width:700px){.films-shell .toolbar input{grid-column:auto}}
