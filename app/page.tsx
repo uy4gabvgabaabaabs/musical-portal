@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import "./exports.css";
 
 type Counts = { films: number; documentaries: number; animations: number; musicCentered: number; numbers: number };
 const initialCounts: Counts = { films: 0, documentaries: 0, animations: 0, musicCentered: 0, numbers: 0 };
@@ -61,7 +60,6 @@ export default function Home() {
             <Link className="button secondary" href="/music-centered">فیلم‌های موسیقی‌محور</Link>
             <Link className="button secondary" href="/films?scope=global">موزیکال جهانی</Link>
             <Link className="button secondary" href="/guide">شیوه‌نامه و تاریخچه</Link>
-            <a className="button secondary" href="#exports">خروجی و پشتیبان</a>
             <a className="button secondary" href="#about">دربارهٔ پایگاه</a>
           </div>
           <div className="stats">
@@ -75,18 +73,6 @@ export default function Home() {
         <div className="portal-art" aria-label="تصویری انتزاعی از حلقه‌های فیلم و موسیقی">
           <div className="record record-one"/><div className="record record-two"/>
           <div className="art-note"><h2>از فیلم به آدم‌ها؛<br/>از آدم‌ها به فیلم‌ها</h2><p>نسخهٔ نخست فیلم‌محور است؛ پایه‌ای برای ساخت صفحه‌های مستقل اشخاص و پیوندهای میان آن‌ها.</p></div>
-        </div>
-      </section>
-
-      <section id="exports" className="exports wrap">
-        <div className="eyebrow">PORTABLE DATA</div>
-        <div className="exports-head"><div><h2>خروجی و پشتیبان درگاه</h2><p>داده‌های کامل را برای Codex، Excel و پایگاه‌های دیگر دریافت کنید، یا نسخهٔ قابل‌انتقال کل درگاه را نگه دارید.</p></div><span>نسخهٔ ۵۳</span></div>
-        <div className="export-grid">
-          <article><div className="export-mark">CSV</div><h3>پایگاه کامل {fa(counts.films)} فیلم یکتا</h3><p>یک فایل یکپارچه شامل گونه، قالب، سبک، عوامل، اتصال‌های بیرونی و سابقهٔ ادغام شناسه‌ها.</p><a className="button" href="/downloads/musical_portal_complete.csv" download>دریافت CSV کامل ↓</a></article>
-          <article><div className="export-mark">DOC</div><h3>{fa(counts.documentaries)} مستند</h3><p>همهٔ مستندهای موجود، با صافی مستند موسیقایی و همراه کارگردان، عوامل، دپارتمان موسیقی و شخصیت‌های موضوع.</p><a className="button secondary" href="/downloads/documentaries_all.csv" download>دریافت CSV مستندها ↓</a><div className="minor-downloads"><a href="/downloads/documentary_credits.csv" download>جدول عوامل</a><a href="/downloads/documentary_subjects.csv" download>جدول موضوع‌ها و گروه‌ها</a></div></article>
-          <article><div className="export-mark">ANI</div><h3>{fa(counts.animations)} انیمیشن</h3><p>فهرست یکتای انیمیشن‌ها با شناسهٔ مستقل و اتصال به اطلاعات و عوامل IMDb.</p><a className="button secondary" href="/downloads/animations_all.csv" download>دریافت CSV انیمیشن‌ها ↓</a><div className="minor-downloads"><a href="/downloads/animation_credits.csv" download>جدول عوامل</a></div></article>
-          <article><div className="export-mark">MC</div><h3>{fa(counts.musicCentered)} فیلم موسیقی‌محور</h3><p>فهرست مستقل مدخل کتاب، بدون افزایش شمار فیلم‌های موزیکال.</p><a className="button secondary" href="/downloads/music_centered_films.csv" download>دریافت CSV موسیقی‌محورها ↓</a></article>
-          <article><div className="export-mark">ZIP</div><h3>پشتیبان کامل و قابل‌انتقال</h3><p>کدها، همهٔ جدول‌ها، خروجی کامل، دفتر ممیزی، تاریخچه و دستور کار بازیابی.</p><a className="button secondary" href="https://github.com/uy4gabvgabaabaabs/musical-portal/archive/refs/heads/main.zip">دریافت پشتیبان ZIP ↓</a></article>
         </div>
       </section>
 
