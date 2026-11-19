@@ -18,7 +18,7 @@ const personFields=new Set(details.map(([key])=>key).filter(key=>!["genre_1","ge
 function names(value:string){return value.split(/\s*[;؛]\s*|\s+،\s+/).map(v=>v.trim()).filter(Boolean)}
 function PersonLinks({value,role}:{value:string;role:string}){return <>{names(value).map((name,i)=><span key={`${name}-${i}`}>{i>0&&<span>؛ </span>}<Link className="person-link" href={`/person?name=${encodeURIComponent(name)}&role=${encodeURIComponent(role)}`}>{name}</Link></span>)}</>}
 function ImdbGenreTags({film}:{film:Film}){return <>{(film.imdb_music==="1"||film.imdb_musical==="1")&&<div className="imdb-genre-tags" aria-label="برچسب‌های رسمی IMDb">{film.imdb_music==="1"&&<a className="imdb-genre-chip music" href="/films?imdb_tag=music">موسیقی (IMDb)</a>}{film.imdb_musical==="1"&&<a className="imdb-genre-chip musical" href="/films?imdb_tag=musical">موزیکال (IMDb)</a>}</div>}</>}
-function filmPrompt(f:Film){return `براساس نظریهٔ علیرضا کاوه این فیلم را دسته‌بندی و تحلیل کن.
+function filmPrompt(f:Film){return `براساس نظریه Cinematic Taxonomy علیرضا کاوه (تقسیم‌بندی سینمایی) این فیلم را دسته‌بندی و تحلیل کن.
 
 لطفاً ژانر، سنت/سبک، جایگاه در تاریخ موزیکال، نسبت با سینمای کلاسیک/مدرن، نقش موسیقی و شماره‌های موزیکال در روایت، اهمیت همکاری عوامل و چند کلیدواژهٔ پژوهشی را پیشنهاد بده. پاسخ فارسی، تحلیلی و روشن باشد و اگر داده‌ای قطعی نیست آن را حدس نزن.
 
