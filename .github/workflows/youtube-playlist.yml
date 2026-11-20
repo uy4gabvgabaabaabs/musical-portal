@@ -1,0 +1,22 @@
+name: Test Musical Number playlist connection
+on:
+  workflow_dispatch:
+    inputs:
+      video_id:
+        description: YouTube video ID to add to Musical Number
+        required: true
+        type: string
+permissions:
+  contents: read
+jobs:
+  add-video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - run: node scripts/youtube-playlist-test.mjs
+        env:
+          YOUTUBE_OAUTH: ${{ secrets.YOUTUBE_OAUTH }}
+          YOUTUBE_VIDEO_ID: ${{ inputs.video_id }}
